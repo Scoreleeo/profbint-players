@@ -5,11 +5,13 @@ type PlayerHeaderProps = {
 };
 
 export default function PlayerHeader({ player }: PlayerHeaderProps) {
+  const backHref = player.teamId ? `/teams/${player.teamId}` : "/";
+
   return (
     <section className="border-b border-slate-800">
       <div className="mx-auto max-w-7xl px-6 py-12">
         <a
-          href={`/teams/${player.teamName}`}
+          href={backHref}
           className="text-sm text-yellow-400 hover:text-yellow-300"
         >
           ← Back to Team
@@ -29,13 +31,9 @@ export default function PlayerHeader({ player }: PlayerHeaderProps) {
           </div>
 
           <div className="flex-1">
-            <p className="text-yellow-400">
-              {player.teamName}
-            </p>
+            <p className="text-yellow-400">{player.teamName}</p>
 
-            <h1 className="mt-2 text-5xl font-bold">
-              {player.name}
-            </h1>
+            <h1 className="mt-2 text-5xl font-bold">{player.name}</h1>
 
             <div className="mt-6 flex flex-wrap gap-3">
               <span className="rounded-full border border-slate-700 px-4 py-2">

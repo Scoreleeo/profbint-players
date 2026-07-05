@@ -51,9 +51,10 @@ type ApiFootballPlayerStatsResponse = {
   };
   statistics: {
     team?: {
-      name?: string | null;
-      logo?: string | null;
-    };
+  id?: number | null;
+  name?: string | null;
+  logo?: string | null;
+};
     league?: {
       name?: string | null;
     };
@@ -184,9 +185,10 @@ export async function getPlayerProfile(
     weight: item.player.weight ?? null,
     injured: item.player.injured ?? null,
     photo: item.player.photo ?? null,
-    teamName: stats?.team?.name ?? null,
-    teamLogo: stats?.team?.logo ?? null,
-    leagueName: stats?.league?.name ?? null,
+teamId: stats?.team?.id ?? null,
+teamName: stats?.team?.name ?? null,
+teamLogo: stats?.team?.logo ?? null,
+leagueName: stats?.league?.name ?? null,
     position: stats?.games?.position ?? null,
     appearances: stats?.games?.appearences ?? null,
     goals: stats?.goals?.total ?? null,

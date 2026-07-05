@@ -38,6 +38,7 @@ export type PlayerProfile = {
   weight?: string | null;
   injured?: boolean | null;
   photo?: string | null;
+  teamId?: number | null;
   teamName?: string | null;
   teamLogo?: string | null;
   leagueName?: string | null;
