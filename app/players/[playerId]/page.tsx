@@ -4,7 +4,8 @@ import Header from "@/components/Header";
 import PlayerHeader from "@/components/player/PlayerHeader";
 import PlayerStats from "@/components/player/PlayerStats";
 import PlayerSummary from "@/components/player/PlayerSummary";
-import { getPlayerProfile } from "@/lib/apiFootball";
+import type { PlayerProfile } from "@/lib/types";
+import playersData from "../../../public/data/players.json";
 
 type PlayerPageProps = {
   params: Promise<{
@@ -12,11 +13,23 @@ type PlayerPageProps = {
   }>;
 };
 
+const players = playersData as PlayerProfile[];
+
+function getLocalPlayer(playerId: string): PlayerProfile | null {
+  const numericPlayerId = Number(playerId);
+
+  if (!Number.isFinite(numericPlayerId)) {
+    return null;
+  }
+
+  return players.find((player) => player.id === numericPlayerId) ?? null;
+}
+
 export async function generateMetadata({
   params,
 }: PlayerPageProps): Promise<Metadata> {
   const { playerId } = await params;
-  const player = await getPlayerProfile(Number(playerId));
+  const player = getLocalPlayer(playerId);
 
   if (!player) {
     return {
@@ -48,7 +61,7 @@ export async function generateMetadata({
 
 export default async function PlayerPage({ params }: PlayerPageProps) {
   const { playerId } = await params;
-  const player = await getPlayerProfile(Number(playerId));
+  const player = getLocalPlayer(playerId);
 
   if (!player) {
     return (
