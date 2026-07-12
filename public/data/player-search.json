@@ -870,16 +870,6 @@
     "searchText": "a. engwanda utrecht eredivisie midfielder netherlands"
   },
   {
-    "id": 46759,
-    "name": "A. Espino",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/46759.png",
-    "searchText": "a. espino rayo vallecano la liga defender spain"
-  },
-  {
     "id": 162463,
     "name": "A. Et-Taïbi",
     "teamName": "Willem II",
@@ -1040,24 +1030,14 @@
     "searchText": "a. gomes marseille ligue 1 midfielder france"
   },
   {
-    "id": 568243,
-    "name": "A. Gonzalez",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/568243.png",
-    "searchText": "a. gonzalez real madrid la liga goalkeeper spain"
-  },
-  {
     "id": 138787,
     "name": "A. Gordon",
-    "teamName": "Newcastle",
-    "teamLogo": "https://media.api-sports.io/football/teams/34.png",
-    "leagueName": "Premier League",
+    "teamName": "Barcelona",
+    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
+    "leagueName": "La Liga",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/138787.png",
-    "searchText": "a. gordon newcastle premier league attacker england"
+    "searchText": "a. gordon barcelona la liga attacker spain"
   },
   {
     "id": 20704,
@@ -1088,16 +1068,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/328089.png",
     "searchText": "a. gray tottenham premier league defender england"
-  },
-  {
-    "id": 56,
-    "name": "A. Griezmann",
-    "teamName": "Atletico Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/530.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/56.png",
-    "searchText": "a. griezmann atletico madrid la liga attacker spain"
   },
   {
     "id": 263177,
@@ -1320,16 +1290,6 @@
     "searchText": "a. iwobi fulham premier league midfielder england"
   },
   {
-    "id": 2924,
-    "name": "A. Januzaj",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/2924.png",
-    "searchText": "a. januzaj sevilla la liga midfielder spain"
-  },
-  {
     "id": 264705,
     "name": "A. Jashari",
     "teamName": "AC Milan",
@@ -1388,16 +1348,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/147831.png",
     "searchText": "a. kalimuendo eintracht frankfurt bundesliga attacker germany"
-  },
-  {
-    "id": 284441,
-    "name": "A. Kamara",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/284441.png",
-    "searchText": "a. kamara getafe la liga attacker spain"
   },
   {
     "id": 278159,
@@ -1670,16 +1620,6 @@
     "searchText": "a. masuaku lens ligue 1 defender france"
   },
   {
-    "id": 316517,
-    "name": "A. Matturro",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/316517.png",
-    "searchText": "a. matturro levante la liga defender spain"
-  },
-  {
     "id": 37236,
     "name": "A. Matusiwa",
     "teamName": "Ipswich",
@@ -1728,16 +1668,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/312.png",
     "searchText": "a. meret napoli serie a goalkeeper italy"
-  },
-  {
-    "id": 579838,
-    "name": "A. Mestanza",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/579838.png",
-    "searchText": "a. mestanza getafe la liga midfielder spain"
   },
   {
     "id": 26292,
@@ -1798,16 +1728,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/455243.png",
     "searchText": "a. moussaoui angers ligue 1 attacker france"
-  },
-  {
-    "id": 15900,
-    "name": "A. Mumin",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/15900.png",
-    "searchText": "a. mumin rayo vallecano la liga defender spain"
   },
   {
     "id": 616,
@@ -1958,16 +1878,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/314511.png",
     "searchText": "a. nusa rb leipzig bundesliga attacker germany"
-  },
-  {
-    "id": 47407,
-    "name": "A. Nyom",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/47407.png",
-    "searchText": "a. nyom getafe la liga defender spain"
   },
   {
     "id": 321744,
@@ -2448,16 +2358,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/48190.png",
     "searchText": "a. sampsted go ahead eagles eredivisie defender netherlands"
-  },
-  {
-    "id": 910,
-    "name": "A. Sánchez",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/910.png",
-    "searchText": "a. sánchez sevilla la liga attacker spain"
   },
   {
     "id": 174927,
@@ -3142,22 +3042,12 @@
   {
     "id": 47329,
     "name": "Adrià Pedrosa",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
+    "teamName": "Sevilla",
+    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/47329.png",
-    "searchText": "adrià pedrosa elche la liga defender spain"
-  },
-  {
-    "id": 18812,
-    "name": "Adrián",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/18812.png",
-    "searchText": "adrián real betis la liga goalkeeper spain"
+    "searchText": "adrià pedrosa sevilla la liga defender spain"
   },
   {
     "id": 628,
@@ -3178,16 +3068,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/182167.png",
     "searchText": "adrián butzke maritimo primeira liga attacker portugal"
-  },
-  {
-    "id": 394573,
-    "name": "Adrian Liso",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/394573.png",
-    "searchText": "adrian liso getafe la liga attacker spain"
   },
   {
     "id": 478244,
@@ -3402,12 +3282,12 @@
   {
     "id": 46711,
     "name": "Aleix Febas",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
+    "teamName": "Celta Vigo",
+    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/46711.png",
-    "searchText": "aleix febas elche la liga midfielder spain"
+    "searchText": "aleix febas celta vigo la liga midfielder spain"
   },
   {
     "id": 47516,
@@ -3508,6 +3388,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/30510.png",
     "searchText": "álex berenguer athletic club la liga attacker spain"
+  },
+  {
+    "id": 286038,
+    "name": "Álex Calatrava",
+    "teamName": "Espanyol",
+    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/286038.png",
+    "searchText": "álex calatrava espanyol la liga midfielder spain"
   },
   {
     "id": 563,
@@ -3680,16 +3570,6 @@
     "searchText": "alfie shane mcnally fulham premier league goalkeeper england"
   },
   {
-    "id": 119213,
-    "name": "Alfon González",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/119213.png",
-    "searchText": "alfon gonzález villarreal la liga attacker spain"
-  },
-  {
     "id": 46843,
     "name": "Alfonso Herrero",
     "teamName": "Malaga",
@@ -3718,6 +3598,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/521654.png",
     "searchText": "alhaji bah fortuna sittard eredivisie midfielder netherlands"
+  },
+  {
+    "id": 448243,
+    "name": "Ali Houary",
+    "teamName": "Elche",
+    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/448243.png",
+    "searchText": "ali houary elche la liga attacker spain"
   },
   {
     "id": 472200,
@@ -4028,16 +3918,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/392252.png",
     "searchText": "andré oliveira fc porto primeira liga midfielder portugal"
-  },
-  {
-    "id": 2063,
-    "name": "André Silva",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/2063.png",
-    "searchText": "andré silva elche la liga attacker spain"
   },
   {
     "id": 493646,
@@ -4980,16 +4860,6 @@
     "searchText": "b. meité lorient ligue 1 defender france"
   },
   {
-    "id": 21087,
-    "name": "B. Mendy",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/21087.png",
-    "searchText": "b. mendy sevilla la liga midfielder spain"
-  },
-  {
     "id": 388777,
     "name": "B. Meupiyou",
     "teamName": "Alverca",
@@ -5160,6 +5030,16 @@
     "searchText": "b. sina elche la liga midfielder spain"
   },
   {
+    "id": 560931,
+    "name": "B. Somuah",
+    "teamName": "Celta Vigo",
+    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/560931.png",
+    "searchText": "b. somuah celta vigo la liga attacker spain"
+  },
+  {
     "id": 26303,
     "name": "B. Sosa",
     "teamName": "Crystal Palace",
@@ -5298,6 +5178,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/401493.png",
     "searchText": "b. żelazowski nice ligue 1 goalkeeper france"
+  },
+  {
+    "id": 8746,
+    "name": "Bambo Diaby",
+    "teamName": "Elche",
+    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
+    "leagueName": "La Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/8746.png",
+    "searchText": "bambo diaby elche la liga defender spain"
   },
   {
     "id": 655113,
@@ -5452,12 +5342,12 @@
   {
     "id": 636,
     "name": "Bernardo Silva",
-    "teamName": "Manchester City",
-    "teamLogo": "https://media.api-sports.io/football/teams/50.png",
-    "leagueName": "Premier League",
+    "teamName": "Real Madrid",
+    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
+    "leagueName": "La Liga",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/636.png",
-    "searchText": "bernardo silva manchester city premier league midfielder england"
+    "searchText": "bernardo silva real madrid la liga midfielder spain"
   },
   {
     "id": 526554,
@@ -5768,16 +5658,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/20850.png",
     "searchText": "c. arcus angers ligue 1 defender france"
-  },
-  {
-    "id": 3033,
-    "name": "C. Bakambu",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/3033.png",
-    "searchText": "c. bakambu real betis la liga attacker spain"
   },
   {
     "id": 356041,
@@ -6240,16 +6120,6 @@
     "searchText": "c. labidi nacional primeira liga midfielder portugal"
   },
   {
-    "id": 133,
-    "name": "C. Lenglet",
-    "teamName": "Atletico Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/530.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/133.png",
-    "searchText": "c. lenglet atletico madrid la liga defender spain"
-  },
-  {
     "id": 162761,
     "name": "C. Lukeba",
     "teamName": "RB Leipzig",
@@ -6370,16 +6240,6 @@
     "searchText": "c. neumann 1. fc köln bundesliga attacker germany"
   },
   {
-    "id": 85,
-    "name": "C. Ngonge",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/85.png",
-    "searchText": "c. ngonge espanyol la liga attacker spain"
-  },
-  {
     "id": 269,
     "name": "C. Nkunku",
     "teamName": "AC Milan",
@@ -6468,16 +6328,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/216809.png",
     "searchText": "c. peupion ado den haag eredivisie midfielder netherlands"
-  },
-  {
-    "id": 48555,
-    "name": "C. Pickel",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/48555.png",
-    "searchText": "c. pickel espanyol la liga midfielder spain"
   },
   {
     "id": 850,
@@ -6800,16 +6650,6 @@
     "searchText": "caio secco moreirense primeira liga goalkeeper portugal"
   },
   {
-    "id": 266658,
-    "name": "Calebe",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/266658.png",
-    "searchText": "calebe alaves la liga midfielder spain"
-  },
-  {
     "id": 48642,
     "name": "Cameron Puertas",
     "teamName": "Werder Bremen",
@@ -6920,26 +6760,6 @@
     "searchText": "carlos lópez malaga la liga goalkeeper spain"
   },
   {
-    "id": 324750,
-    "name": "Carlos Martín",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/324750.png",
-    "searchText": "carlos martín rayo vallecano la liga midfielder spain"
-  },
-  {
-    "id": 184420,
-    "name": "Carlos Romero",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/184420.png",
-    "searchText": "carlos romero espanyol la liga defender spain"
-  },
-  {
     "id": 930,
     "name": "Carlos Soler",
     "teamName": "Real Sociedad",
@@ -6990,16 +6810,6 @@
     "searchText": "catena osasuna la liga defender spain"
   },
   {
-    "id": 450562,
-    "name": "Cayetano",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/450562.png",
-    "searchText": "cayetano levante la liga goalkeeper spain"
-  },
-  {
     "id": 161968,
     "name": "Cedric Teguia",
     "teamName": "Moreirense",
@@ -7008,16 +6818,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/161968.png",
     "searchText": "cedric teguia moreirense primeira liga attacker portugal"
-  },
-  {
-    "id": 2280,
-    "name": "César Azpilicueta",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/2280.png",
-    "searchText": "césar azpilicueta sevilla la liga defender spain"
   },
   {
     "id": 386306,
@@ -7220,16 +7020,6 @@
     "searchText": "d. akintola hull city premier league attacker england"
   },
   {
-    "id": 505,
-    "name": "D. Alaba",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/505.png",
-    "searchText": "d. alaba real madrid la liga defender spain"
-  },
-  {
     "id": 37928,
     "name": "D. Bakker",
     "teamName": "Telstar",
@@ -7408,16 +7198,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/637891.png",
     "searchText": "d. caceres getafe la liga midfielder spain"
-  },
-  {
-    "id": 1902,
-    "name": "D. Ćaleta-Car",
-    "teamName": "Real Sociedad",
-    "teamLogo": "https://media.api-sports.io/football/teams/548.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1902.png",
-    "searchText": "d. ćaleta-car real sociedad la liga defender spain"
   },
   {
     "id": 18766,
@@ -7900,16 +7680,6 @@
     "searchText": "d. klein fc augsburg bundesliga goalkeeper germany"
   },
   {
-    "id": 383647,
-    "name": "D. Kochen",
-    "teamName": "Barcelona",
-    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/383647.png",
-    "searchText": "d. kochen barcelona la liga goalkeeper spain"
-  },
-  {
     "id": 128853,
     "name": "D. Köhn",
     "teamName": "Union Berlin",
@@ -8078,16 +7848,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/38799.png",
     "searchText": "d. mertens telstar eredivisie midfielder netherlands"
-  },
-  {
-    "id": 636772,
-    "name": "D. Mesonero",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/636772.png",
-    "searchText": "d. mesonero real madrid la liga midfielder spain"
   },
   {
     "id": 452697,
@@ -8780,26 +8540,6 @@
     "searchText": "dani cárdenas rayo vallecano la liga goalkeeper spain"
   },
   {
-    "id": 733,
-    "name": "Dani Carvajal",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/733.png",
-    "searchText": "dani carvajal real madrid la liga defender spain"
-  },
-  {
-    "id": 748,
-    "name": "Dani Ceballos",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/748.png",
-    "searchText": "dani ceballos real madrid la liga midfielder spain"
-  },
-  {
     "id": 385383,
     "name": "Dani Cervera",
     "teamName": "Levante",
@@ -8848,26 +8588,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/1323.png",
     "searchText": "dani olmo barcelona la liga midfielder spain"
-  },
-  {
-    "id": 928,
-    "name": "Dani Parejo",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/928.png",
-    "searchText": "dani parejo villarreal la liga midfielder spain"
-  },
-  {
-    "id": 351131,
-    "name": "Dani Pérez",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/351131.png",
-    "searchText": "dani pérez real betis la liga midfielder spain"
   },
   {
     "id": 1708,
@@ -9330,16 +9050,6 @@
     "searchText": "diego llorente real betis la liga defender spain"
   },
   {
-    "id": 162127,
-    "name": "Diego López",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/162127.png",
-    "searchText": "diego lópez valencia la liga attacker spain"
-  },
-  {
     "id": 335056,
     "name": "Diego Moreira",
     "teamName": "Strasbourg",
@@ -9358,26 +9068,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/185234.png",
     "searchText": "diego murillo malaga la liga defender spain"
-  },
-  {
-    "id": 104832,
-    "name": "Diego Pampín",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/104832.png",
-    "searchText": "diego pampín levante la liga defender spain"
-  },
-  {
-    "id": 18867,
-    "name": "Diego Rico",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/18867.png",
-    "searchText": "diego rico getafe la liga defender spain"
   },
   {
     "id": 361371,
@@ -9580,16 +9270,6 @@
     "searchText": "dodô fiorentina serie a defender italy"
   },
   {
-    "id": 46795,
-    "name": "Domingos Duarte",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/46795.png",
-    "searchText": "domingos duarte getafe la liga defender spain"
-  },
-  {
     "id": 474378,
     "name": "Don-Angelo Christoffel Annum-Assamoah Konadu",
     "teamName": "Ajax",
@@ -9660,16 +9340,6 @@
     "searchText": "e. anderson nottingham forest premier league midfielder england"
   },
   {
-    "id": 47579,
-    "name": "E. Ávila",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/47579.png",
-    "searchText": "e. ávila real betis la liga attacker spain"
-  },
-  {
     "id": 283265,
     "name": "E. Baggott",
     "teamName": "Ipswich",
@@ -9708,6 +9378,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/343286.png",
     "searchText": "e. banzuzi rb leipzig bundesliga attacker germany"
+  },
+  {
+    "id": 161893,
+    "name": "E. Bardeli",
+    "teamName": "Levante",
+    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/161893.png",
+    "searchText": "e. bardeli levante la liga midfielder spain"
   },
   {
     "id": 158378,
@@ -9818,16 +9498,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/174939.png",
     "searchText": "e. colas le mans ligue 1 attacker france"
-  },
-  {
-    "id": 48372,
-    "name": "E. Cömert",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/48372.png",
-    "searchText": "e. cömert valencia la liga defender spain"
   },
   {
     "id": 180762,
@@ -10320,16 +9990,6 @@
     "searchText": "e. motta lazio serie a goalkeeper italy"
   },
   {
-    "id": 601858,
-    "name": "E. Munoz",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/601858.png",
-    "searchText": "e. munoz alaves la liga defender spain"
-  },
-  {
     "id": 1807,
     "name": "E. Ndicka",
     "teamName": "AS Roma",
@@ -10810,16 +10470,6 @@
     "searchText": "eliezer mayenda sunderland premier league attacker england"
   },
   {
-    "id": 47298,
-    "name": "Elustondo",
-    "teamName": "Real Sociedad",
-    "teamLogo": "https://media.api-sports.io/football/teams/548.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/47298.png",
-    "searchText": "elustondo real sociedad la liga defender spain"
-  },
-  {
     "id": 408127,
     "name": "Emeka Adeile",
     "teamName": "Utrecht",
@@ -11100,6 +10750,16 @@
     "searchText": "f. bednarek sparta rotterdam eredivisie goalkeeper netherlands"
   },
   {
+    "id": 316519,
+    "name": "F. Bernal",
+    "teamName": "Real Betis",
+    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/316519.png",
+    "searchText": "f. bernal real betis la liga midfielder spain"
+  },
+  {
     "id": 873,
     "name": "F. Bernardeschi",
     "teamName": "Bologna",
@@ -11198,16 +10858,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/584426.png",
     "searchText": "f. castaldo bologna serie a attacker italy"
-  },
-  {
-    "id": 570,
-    "name": "F. Cervi",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/570.png",
-    "searchText": "f. cervi celta vigo la liga attacker spain"
   },
   {
     "id": 276670,
@@ -12180,16 +11830,6 @@
     "searchText": "félix correia lille ligue 1 attacker france"
   },
   {
-    "id": 391822,
-    "name": "Fer López",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/391822.png",
-    "searchText": "fer lópez celta vigo la liga midfielder spain"
-  },
-  {
     "id": 340626,
     "name": "Fermín",
     "teamName": "Barcelona",
@@ -12198,16 +11838,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/340626.png",
     "searchText": "fermín barcelona la liga midfielder spain"
-  },
-  {
-    "id": 47478,
-    "name": "Fernando Calero",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/47478.png",
-    "searchText": "fernando calero espanyol la liga defender spain"
   },
   {
     "id": 122734,
@@ -13970,16 +13600,6 @@
     "searchText": "guilherme romão santa clara primeira liga defender portugal"
   },
   {
-    "id": 47414,
-    "name": "Gumbau",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/47414.png",
-    "searchText": "gumbau rayo vallecano la liga midfielder spain"
-  },
-  {
     "id": 353366,
     "name": "Gustavo",
     "teamName": "Guimaraes",
@@ -14038,6 +13658,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/296695.png",
     "searchText": "h. abaida malaga la liga midfielder spain"
+  },
+  {
+    "id": 550547,
+    "name": "H. Abdelkarim",
+    "teamName": "Barcelona",
+    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/550547.png",
+    "searchText": "h. abdelkarim barcelona la liga attacker spain"
   },
   {
     "id": 20692,
@@ -14570,16 +14200,6 @@
     "searchText": "héctor bellerín real betis la liga defender spain"
   },
   {
-    "id": 386859,
-    "name": "Héctor Fort",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/386859.png",
-    "searchText": "héctor fort elche la liga defender spain"
-  },
-  {
     "id": 47116,
     "name": "Héctor Hernández",
     "teamName": "GIL Vicente",
@@ -14670,14 +14290,14 @@
     "searchText": "hugo lópez villarreal la liga attacker spain"
   },
   {
-    "id": 386187,
-    "name": "Hugo Solozábal",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
+    "id": 313025,
+    "name": "Hugo Rincón",
+    "teamName": "Athletic Club",
+    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
     "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/386187.png",
-    "searchText": "hugo solozábal getafe la liga midfielder spain"
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/313025.png",
+    "searchText": "hugo rincón athletic club la liga defender spain"
   },
   {
     "id": 313651,
@@ -14788,16 +14408,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/51762.png",
     "searchText": "i. de arruabarrena arouca primeira liga goalkeeper portugal"
-  },
-  {
-    "id": 182784,
-    "name": "I. Diabate",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/182784.png",
-    "searchText": "i. diabate alaves la liga attacker spain"
   },
   {
     "id": 18814,
@@ -15012,12 +14622,12 @@
   {
     "id": 1145,
     "name": "I. Konaté",
-    "teamName": "Liverpool",
-    "teamLogo": "https://media.api-sports.io/football/teams/40.png",
-    "leagueName": "Premier League",
+    "teamName": "Real Madrid",
+    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
+    "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/1145.png",
-    "searchText": "i. konaté liverpool premier league defender england"
+    "searchText": "i. konaté real madrid la liga defender spain"
   },
   {
     "id": 328046,
@@ -15502,12 +15112,12 @@
   {
     "id": 128985,
     "name": "Iker Losada",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
+    "teamName": "Real Betis",
+    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
     "leagueName": "La Liga",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/128985.png",
-    "searchText": "iker losada levante la liga attacker spain"
+    "searchText": "iker losada real betis la liga attacker spain"
   },
   {
     "id": 407677,
@@ -15530,16 +15140,6 @@
     "searchText": "iker muñoz osasuna la liga midfielder spain"
   },
   {
-    "id": 290740,
-    "name": "Ilias Akhomach",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/290740.png",
-    "searchText": "ilias akhomach rayo vallecano la liga attacker spain"
-  },
-  {
     "id": 497112,
     "name": "Illaijh de Ruijter",
     "teamName": "ADO Den Haag",
@@ -15558,16 +15158,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/380873.png",
     "searchText": "ilyas  ansah union berlin bundesliga attacker germany"
-  },
-  {
-    "id": 126,
-    "name": "Iñaki Peña",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/126.png",
-    "searchText": "iñaki peña elche la liga goalkeeper spain"
   },
   {
     "id": 421044,
@@ -15810,16 +15400,6 @@
     "searchText": "j.  mcginn aston villa premier league midfielder england"
   },
   {
-    "id": 548807,
-    "name": "J. A. Gaitan Diaz",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/548807.png",
-    "searchText": "j. a. gaitan diaz villarreal la liga attacker spain"
-  },
-  {
     "id": 544644,
     "name": "J. A. Morante",
     "teamName": "Real Betis",
@@ -15848,16 +15428,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/453955.png",
     "searchText": "j. afonso santa clara primeira liga goalkeeper portugal"
-  },
-  {
-    "id": 1926,
-    "name": "J. Aidoo",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1926.png",
-    "searchText": "j. aidoo celta vigo la liga defender spain"
   },
   {
     "id": 20024,
@@ -16628,16 +16198,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/383770.png",
     "searchText": "j. fletcher manchester united premier league midfielder england"
-  },
-  {
-    "id": 166,
-    "name": "J. Foyth",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/166.png",
-    "searchText": "j. foyth villarreal la liga defender spain"
   },
   {
     "id": 152654,
@@ -18572,12 +18132,12 @@
   {
     "id": 47566,
     "name": "Javi Galán",
-    "teamName": "Osasuna",
-    "teamLogo": "https://media.api-sports.io/football/teams/727.png",
+    "teamName": "Celta Vigo",
+    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/47566.png",
-    "searchText": "javi galán osasuna la liga defender spain"
+    "searchText": "javi galán celta vigo la liga defender spain"
   },
   {
     "id": 315699,
@@ -18888,16 +18448,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/41119.png",
     "searchText": "joão aurélio nacional primeira liga defender portugal"
-  },
-  {
-    "id": 855,
-    "name": "João Cancelo",
-    "teamName": "Barcelona",
-    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/855.png",
-    "searchText": "joão cancelo barcelona la liga defender spain"
   },
   {
     "id": 361433,
@@ -19230,16 +18780,6 @@
     "searchText": "jon ander olasagasti levante la liga midfielder spain"
   },
   {
-    "id": 335490,
-    "name": "Jon de Luis",
-    "teamName": "Athletic Club",
-    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/335490.png",
-    "searchText": "jon de luis athletic club la liga defender spain"
-  },
-  {
     "id": 287654,
     "name": "Jon Gorrotxategi",
     "teamName": "Real Sociedad",
@@ -19252,12 +18792,12 @@
   {
     "id": 104821,
     "name": "Jon Guridi",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
+    "teamName": "Sevilla",
+    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
     "leagueName": "La Liga",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/104821.png",
-    "searchText": "jon guridi alaves la liga midfielder spain"
+    "searchText": "jon guridi sevilla la liga midfielder spain"
   },
   {
     "id": 183748,
@@ -19278,16 +18818,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/405073.png",
     "searchText": "jon martín real sociedad la liga defender spain"
-  },
-  {
-    "id": 182546,
-    "name": "Jon Pacheco",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/182546.png",
-    "searchText": "jon pacheco alaves la liga defender spain"
   },
   {
     "id": 334146,
@@ -19480,16 +19010,6 @@
     "searchText": "josé jurado deportivo la coruna la liga midfielder spain"
   },
   {
-    "id": 47467,
-    "name": "José Luis Morales",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/47467.png",
-    "searchText": "josé luis morales levante la liga attacker spain"
-  },
-  {
     "id": 434546,
     "name": "José Luís Rocha Tavares",
     "teamName": "Santa Clara",
@@ -19620,16 +19140,6 @@
     "searchText": "juan carlos arana racing santander la liga attacker spain"
   },
   {
-    "id": 46967,
-    "name": "Juan Cruz",
-    "teamName": "Osasuna",
-    "teamLogo": "https://media.api-sports.io/football/teams/727.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/46967.png",
-    "searchText": "juan cruz osasuna la liga defender spain"
-  },
-  {
     "id": 579244,
     "name": "Juan Hernández",
     "teamName": "Barcelona",
@@ -19642,12 +19152,12 @@
   {
     "id": 119742,
     "name": "Juan Iglesias",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
+    "teamName": "Sevilla",
+    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
     "leagueName": "La Liga",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/119742.png",
-    "searchText": "juan iglesias getafe la liga midfielder spain"
+    "searchText": "juan iglesias sevilla la liga midfielder spain"
   },
   {
     "id": 774,
@@ -19708,16 +19218,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/285505.png",
     "searchText": "juanpe rayo vallecano la liga goalkeeper spain"
-  },
-  {
-    "id": 183848,
-    "name": "Julen Agirrezabala",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/183848.png",
-    "searchText": "julen agirrezabala valencia la liga goalkeeper spain"
   },
   {
     "id": 182602,
@@ -20248,6 +19748,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/298128.png",
     "searchText": "k. kesler-hayden coventry premier league defender england"
+  },
+  {
+    "id": 410841,
+    "name": "K. Kita",
+    "teamName": "Real Sociedad",
+    "teamLogo": "https://media.api-sports.io/football/teams/548.png",
+    "leagueName": "La Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/410841.png",
+    "searchText": "k. kita real sociedad la liga defender spain"
   },
   {
     "id": 38780,
@@ -21350,16 +20860,6 @@
     "searchText": "l. barreiro benfica primeira liga midfielder portugal"
   },
   {
-    "id": 6010,
-    "name": "L. Beltrán",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/6010.png",
-    "searchText": "l. beltrán valencia la liga attacker spain"
-  },
-  {
     "id": 347316,
     "name": "L. Bergvall",
     "teamName": "Tottenham",
@@ -22390,16 +21890,6 @@
     "searchText": "l. petkov sv elversberg bundesliga attacker germany"
   },
   {
-    "id": 157146,
-    "name": "L. Pétrot",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/157146.png",
-    "searchText": "l. pétrot elche la liga defender spain"
-  },
-  {
     "id": 26342,
     "name": "L. Pfeiffer",
     "teamName": "SV Elversberg",
@@ -22468,16 +21958,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/288206.png",
     "searchText": "l. querfeld union berlin bundesliga defender germany"
-  },
-  {
-    "id": 138776,
-    "name": "L. Ramazani",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/138776.png",
-    "searchText": "l. ramazani valencia la liga attacker spain"
   },
   {
     "id": 31642,
@@ -22830,16 +22310,6 @@
     "searchText": "l. van parys fortuna sittard eredivisie goalkeeper netherlands"
   },
   {
-    "id": 6490,
-    "name": "L. Vázquez",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/6490.png",
-    "searchText": "l. vázquez getafe la liga attacker spain"
-  },
-  {
     "id": 452033,
     "name": "L. Venturino",
     "teamName": "AS Roma",
@@ -23008,16 +22478,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/927.png",
     "searchText": "lee kang-in paris saint germain ligue 1 midfielder france"
-  },
-  {
-    "id": 47276,
-    "name": "Lekue",
-    "teamName": "Athletic Club",
-    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/47276.png",
-    "searchText": "lekue athletic club la liga defender spain"
   },
   {
     "id": 10308,
@@ -23350,16 +22810,6 @@
     "searchText": "luís maria viegas abreu campos gomes estoril primeira liga midfielder portugal"
   },
   {
-    "id": 47085,
-    "name": "Luis Milla",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/47085.png",
-    "searchText": "luis milla getafe la liga midfielder spain"
-  },
-  {
     "id": 46933,
     "name": "Luis Rioja",
     "teamName": "Valencia",
@@ -23408,16 +22858,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/188445.png",
     "searchText": "luismi cruz deportivo la coruna la liga attacker spain"
-  },
-  {
-    "id": 1847,
-    "name": "Luiz Felipe",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1847.png",
-    "searchText": "luiz felipe rayo vallecano la liga defender spain"
   },
   {
     "id": 278619,
@@ -23548,16 +22988,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/395762.png",
     "searchText": "m. amougou strasbourg ligue 1 midfielder france"
-  },
-  {
-    "id": 47258,
-    "name": "M. Arambarri",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/47258.png",
-    "searchText": "m. arambarri getafe la liga midfielder spain"
   },
   {
     "id": 51776,
@@ -24188,16 +23618,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/30670.png",
     "searchText": "m. di gregorio juventus serie a goalkeeper italy"
-  },
-  {
-    "id": 916,
-    "name": "M. Diakhaby",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/916.png",
-    "searchText": "m. diakhaby valencia la liga defender spain"
   },
   {
     "id": 119853,
@@ -25140,16 +24560,6 @@
     "searchText": "m. locatelli juventus serie a midfielder italy"
   },
   {
-    "id": 580271,
-    "name": "M. Londono",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/580271.png",
-    "searchText": "m. londono espanyol la liga midfielder spain"
-  },
-  {
     "id": 1910,
     "name": "M. Lopez",
     "teamName": "Paris FC",
@@ -25298,16 +24708,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/25342.png",
     "searchText": "m. mittelstädt vfb stuttgart bundesliga defender germany"
-  },
-  {
-    "id": 421807,
-    "name": "M. Moreno",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/421807.png",
-    "searchText": "m. moreno levante la liga defender spain"
   },
   {
     "id": 437678,
@@ -25690,16 +25090,6 @@
     "searchText": "m. raab union berlin bundesliga goalkeeper germany"
   },
   {
-    "id": 909,
-    "name": "M. Rashford",
-    "teamName": "Barcelona",
-    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/909.png",
-    "searchText": "m. rashford barcelona la liga attacker spain"
-  },
-  {
     "id": 90957,
     "name": "M. Rente",
     "teamName": "Groningen",
@@ -25708,16 +25098,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/90957.png",
     "searchText": "m. rente groningen eredivisie defender netherlands"
-  },
-  {
-    "id": 21584,
-    "name": "M. Ristić",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/21584.png",
-    "searchText": "m. ristić celta vigo la liga defender spain"
   },
   {
     "id": 174797,
@@ -25828,16 +25208,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/162012.png",
     "searchText": "m. ruggeri atletico madrid la liga defender spain"
-  },
-  {
-    "id": 2741,
-    "name": "M. Ryan",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/2741.png",
-    "searchText": "m. ryan levante la liga goalkeeper spain"
   },
   {
     "id": 1159,
@@ -26218,6 +25588,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/270510.png",
     "searchText": "m. tel tottenham premier league attacker england"
+  },
+  {
+    "id": 127,
+    "name": "M. ter Stegen",
+    "teamName": "Barcelona",
+    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
+    "leagueName": "La Liga",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/127.png",
+    "searchText": "m. ter stegen barcelona la liga goalkeeper spain"
   },
   {
     "id": 663,
@@ -26722,12 +26102,12 @@
   {
     "id": 64309,
     "name": "Manu Sánchez",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
+    "teamName": "Celta Vigo",
+    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/64309.png",
-    "searchText": "manu sánchez levante la liga defender spain"
+    "searchText": "manu sánchez celta vigo la liga defender spain"
   },
   {
     "id": 313167,
@@ -26802,12 +26182,12 @@
   {
     "id": 47380,
     "name": "Marc Cucurella",
-    "teamName": "Chelsea",
-    "teamLogo": "https://media.api-sports.io/football/teams/49.png",
-    "leagueName": "Premier League",
+    "teamName": "Real Madrid",
+    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
+    "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/47380.png",
-    "searchText": "marc cucurella chelsea premier league defender england"
+    "searchText": "marc cucurella real madrid la liga defender spain"
   },
   {
     "id": 392270,
@@ -27438,6 +26818,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/41229.png",
     "searchText": "mika moreirense primeira liga goalkeeper portugal"
+  },
+  {
+    "id": 288384,
+    "name": "Mikel Goti",
+    "teamName": "Real Sociedad",
+    "teamLogo": "https://media.api-sports.io/football/teams/548.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/288384.png",
+    "searchText": "mikel goti real sociedad la liga midfielder spain"
   },
   {
     "id": 383780,
@@ -28080,16 +27470,6 @@
     "searchText": "n. füllkrug ac milan serie a attacker italy"
   },
   {
-    "id": 26315,
-    "name": "N. González",
-    "teamName": "Atletico Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/530.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/26315.png",
-    "searchText": "n. gonzález atletico madrid la liga attacker spain"
-  },
-  {
     "id": 468711,
     "name": "N. Grandu",
     "teamName": "Cagliari",
@@ -28098,16 +27478,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/468711.png",
     "searchText": "n. grandu cagliari serie a midfielder italy"
-  },
-  {
-    "id": 1489,
-    "name": "N. Gudelj",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/1489.png",
-    "searchText": "n. gudelj sevilla la liga midfielder spain"
   },
   {
     "id": 26250,
@@ -28368,16 +27738,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/902.png",
     "searchText": "n. matić sassuolo serie a midfielder italy"
-  },
-  {
-    "id": 19364,
-    "name": "N. Maupay",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/19364.png",
-    "searchText": "n. maupay sevilla la liga attacker spain"
   },
   {
     "id": 545,
@@ -29180,16 +28540,6 @@
     "searchText": "nicolas estrada elche la liga defender spain"
   },
   {
-    "id": 651890,
-    "name": "Nicolas Guilen",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/651890.png",
-    "searchText": "nicolas guilen sevilla la liga midfielder spain"
-  },
-  {
     "id": 616197,
     "name": "Nicolo Pannozzo",
     "teamName": "Lazio",
@@ -29680,16 +29030,6 @@
     "searchText": "o. nkambadio paris fc ligue 1 goalkeeper france"
   },
   {
-    "id": 19172,
-    "name": "Ø. Nyland",
-    "teamName": "Sevilla",
-    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/19172.png",
-    "searchText": "ø. nyland sevilla la liga goalkeeper spain"
-  },
-  {
     "id": 61774,
     "name": "O. Óskarsson",
     "teamName": "Real Sociedad",
@@ -29808,16 +29148,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/284071.png",
     "searchText": "o. targhalline feyenoord eredivisie midfielder netherlands"
-  },
-  {
-    "id": 47557,
-    "name": "Ó. Trejo",
-    "teamName": "Rayo Vallecano",
-    "teamLogo": "https://media.api-sports.io/football/teams/728.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/47557.png",
-    "searchText": "ó. trejo rayo vallecano la liga midfielder spain"
   },
   {
     "id": 313383,
@@ -29998,16 +29328,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/278133.png",
     "searchText": "oscar bobb fulham premier league midfielder england"
-  },
-  {
-    "id": 162712,
-    "name": "Óscar Mingueza",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/162712.png",
-    "searchText": "óscar mingueza celta vigo la liga defender spain"
   },
   {
     "id": 184615,
@@ -30530,6 +29850,16 @@
     "searchText": "p. mendy cagliari serie a attacker italy"
   },
   {
+    "id": 321658,
+    "name": "P. Mercado",
+    "teamName": "Sevilla",
+    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/321658.png",
+    "searchText": "p. mercado sevilla la liga midfielder spain"
+  },
+  {
     "id": 567805,
     "name": "P. Mounguengue",
     "teamName": "Paris Saint Germain",
@@ -30980,16 +30310,6 @@
     "searchText": "pablo marín real sociedad la liga midfielder spain"
   },
   {
-    "id": 104949,
-    "name": "Pablo Martínez",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/104949.png",
-    "searchText": "pablo martínez levante la liga midfielder spain"
-  },
-  {
     "id": 46734,
     "name": "Pablo Ramón",
     "teamName": "Racing Santander",
@@ -31188,16 +30508,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/238338.png",
     "searchText": "paulo victor santa clara primeira liga defender portugal"
-  },
-  {
-    "id": 1702,
-    "name": "Pedraza",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1702.png",
-    "searchText": "pedraza villarreal la liga defender spain"
   },
   {
     "id": 133609,
@@ -31468,16 +30778,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/526553.png",
     "searchText": "petrit preniqi groningen eredivisie defender netherlands"
-  },
-  {
-    "id": 307224,
-    "name": "Piri",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/307224.png",
-    "searchText": "piri elche la liga attacker spain"
   },
   {
     "id": 631204,
@@ -32300,16 +31600,6 @@
     "searchText": "r. le guen stade brestois 29 ligue 1 defender france"
   },
   {
-    "id": 521,
-    "name": "R. Lewandowski",
-    "teamName": "Barcelona",
-    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/521.png",
-    "searchText": "r. lewandowski barcelona la liga attacker spain"
-  },
-  {
     "id": 284230,
     "name": "R. Lewis",
     "teamName": "Manchester City",
@@ -32780,16 +32070,6 @@
     "searchText": "r. rodin auxerre ligue 1 attacker france"
   },
   {
-    "id": 1631,
-    "name": "R. Rodríguez",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1631.png",
-    "searchText": "r. rodríguez real betis la liga defender spain"
-  },
-  {
     "id": 194536,
     "name": "R. Roefs",
     "teamName": "Sunderland",
@@ -32808,16 +32088,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/375321.png",
     "searchText": "r. sagrado venezia serie a defender italy"
-  },
-  {
-    "id": 2470,
-    "name": "R. Saravia",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/2470.png",
-    "searchText": "r. saravia valencia la liga defender spain"
   },
   {
     "id": 197830,
@@ -33090,26 +32360,6 @@
     "searchText": "rafa benfica primeira liga attacker portugal"
   },
   {
-    "id": 237066,
-    "name": "Rafa Marín",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/237066.png",
-    "searchText": "rafa marín villarreal la liga defender spain"
-  },
-  {
-    "id": 47013,
-    "name": "Rafa Mir",
-    "teamName": "Elche",
-    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/47013.png",
-    "searchText": "rafa mir elche la liga attacker spain"
-  },
-  {
     "id": 335221,
     "name": "Rafa Rodríguez",
     "teamName": "Malaga",
@@ -33220,16 +32470,6 @@
     "searchText": "ramón enríquez malaga la liga midfielder spain"
   },
   {
-    "id": 187987,
-    "name": "Ramón Terrats",
-    "teamName": "Espanyol",
-    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/187987.png",
-    "searchText": "ramón terrats espanyol la liga midfielder spain"
-  },
-  {
     "id": 8,
     "name": "Raphaël Guerreiro",
     "teamName": "Bayern München",
@@ -33278,16 +32518,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/341640.png",
     "searchText": "raúl asencio real madrid la liga defender spain"
-  },
-  {
-    "id": 46987,
-    "name": "Raúl Fernández",
-    "teamName": "Alaves",
-    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/46987.png",
-    "searchText": "raúl fernández alaves la liga goalkeeper spain"
   },
   {
     "id": 146751,
@@ -33880,16 +33110,6 @@
     "searchText": "rubén sánchez espanyol la liga defender spain"
   },
   {
-    "id": 662934,
-    "name": "Rubi",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/662934.png",
-    "searchText": "rubi valencia la liga defender spain"
-  },
-  {
     "id": 315701,
     "name": "Rubo Iranzo",
     "teamName": "Valencia",
@@ -34018,16 +33238,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/334035.png",
     "searchText": "s. amo-ameyaw strasbourg ligue 1 midfielder france"
-  },
-  {
-    "id": 74,
-    "name": "S. Amrabat",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/74.png",
-    "searchText": "s. amrabat real betis la liga midfielder spain"
   },
   {
     "id": 395025,
@@ -35950,16 +35160,6 @@
     "searchText": "senny mayulu paris saint germain ligue 1 midfielder france"
   },
   {
-    "id": 286084,
-    "name": "Sergi Altimira",
-    "teamName": "Real Betis",
-    "teamLogo": "https://media.api-sports.io/football/teams/543.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/286084.png",
-    "searchText": "sergi altimira real betis la liga midfielder spain"
-  },
-  {
     "id": 70500,
     "name": "Sergi Cardona",
     "teamName": "Villarreal",
@@ -36650,6 +35850,16 @@
     "searchText": "t. eyoum le mans ligue 1 defender france"
   },
   {
+    "id": 362750,
+    "name": "T. Fernández",
+    "teamName": "Villarreal",
+    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/362750.png",
+    "searchText": "t. fernández villarreal la liga midfielder spain"
+  },
+  {
     "id": 557460,
     "name": "T. Fletcher",
     "teamName": "Manchester United",
@@ -37250,16 +36460,6 @@
     "searchText": "t. parrott az alkmaar eredivisie attacker netherlands"
   },
   {
-    "id": 49,
-    "name": "T. Partey",
-    "teamName": "Villarreal",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/49.png",
-    "searchText": "t. partey villarreal la liga midfielder spain"
-  },
-  {
     "id": 162067,
     "name": "T. Pembélé",
     "teamName": "Le Havre",
@@ -37740,16 +36940,6 @@
     "searchText": "thierno bah le havre ligue 1 midfielder france"
   },
   {
-    "id": 1482,
-    "name": "Thierry Correia",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/1482.png",
-    "searchText": "thierry correia valencia la liga defender spain"
-  },
-  {
     "id": 395849,
     "name": "Thomas Berenbruch",
     "teamName": "Inter",
@@ -38060,16 +37250,6 @@
     "searchText": "u. ogundu fc augsburg bundesliga attacker germany"
   },
   {
-    "id": 334878,
-    "name": "U. Raghouber",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/334878.png",
-    "searchText": "u. raghouber levante la liga midfielder spain"
-  },
-  {
     "id": 31406,
     "name": "U. Sadiq",
     "teamName": "Valencia",
@@ -38132,12 +37312,12 @@
   {
     "id": 47277,
     "name": "Unai Núñez",
-    "teamName": "Valencia",
-    "teamLogo": "https://media.api-sports.io/football/teams/532.png",
+    "teamName": "Celta Vigo",
+    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/47277.png",
-    "searchText": "unai núñez valencia la liga defender spain"
+    "searchText": "unai núñez celta vigo la liga defender spain"
   },
   {
     "id": 47270,
@@ -38148,16 +37328,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/47270.png",
     "searchText": "unai simón athletic club la liga goalkeeper spain"
-  },
-  {
-    "id": 182639,
-    "name": "Unai Vencedor",
-    "teamName": "Levante",
-    "teamLogo": "https://media.api-sports.io/football/teams/539.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/182639.png",
-    "searchText": "unai vencedor levante la liga midfielder spain"
   },
   {
     "id": 502512,
@@ -38228,16 +37398,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/1134.png",
     "searchText": "v. bayo udinese serie a attacker italy"
-  },
-  {
-    "id": 45804,
-    "name": "V. Birmančević",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/45804.png",
-    "searchText": "v. birmančević getafe la liga attacker spain"
   },
   {
     "id": 39071,
@@ -38678,16 +37838,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/388872.png",
     "searchText": "victor mow froholdt fc porto primeira liga midfielder portugal"
-  },
-  {
-    "id": 338751,
-    "name": "Víctor Muñoz",
-    "teamName": "Osasuna",
-    "teamLogo": "https://media.api-sports.io/football/teams/727.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/338751.png",
-    "searchText": "víctor muñoz osasuna la liga attacker spain"
   },
   {
     "id": 128951,
@@ -39240,16 +38390,6 @@
     "searchText": "wesley adeh werder bremen bundesliga midfielder germany"
   },
   {
-    "id": 365287,
-    "name": "Wesley Gassova",
-    "teamName": "Real Sociedad",
-    "teamLogo": "https://media.api-sports.io/football/teams/548.png",
-    "leagueName": "La Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/365287.png",
-    "searchText": "wesley gassova real sociedad la liga attacker spain"
-  },
-  {
     "id": 335633,
     "name": "Weslley Patati",
     "teamName": "AZ Alkmaar",
@@ -39770,6 +38910,16 @@
     "searchText": "y. ndayishimiye nice ligue 1 midfielder france"
   },
   {
+    "id": 41976,
+    "name": "Y. Neyou",
+    "teamName": "Getafe",
+    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/41976.png",
+    "searchText": "y. neyou getafe la liga midfielder spain"
+  },
+  {
     "id": 181865,
     "name": "Y. Oukili",
     "teamName": "Fortuna Sittard",
@@ -40238,16 +39388,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/557416.png",
     "searchText": "z. marsh crystal palace premier league attacker england"
-  },
-  {
-    "id": 180927,
-    "name": "Z. Romero",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/180927.png",
-    "searchText": "z. romero getafe la liga defender spain"
   },
   {
     "id": 126899,
