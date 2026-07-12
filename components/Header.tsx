@@ -1,6 +1,29 @@
 import Link from "next/link";
 import GlobalPlayerSearch from "@/components/search/GlobalPlayerSearch";
-import { LEAGUES } from "@/lib/leagues";
+
+const NAV_LINKS = [
+  {
+    href: "https://players.profbint.com",
+    label: "Home",
+    active: true,
+  },
+  {
+    href: "https://predictions.profbint.com",
+    label: "Predictions",
+  },
+  {
+    href: "https://results.profbint.com",
+    label: "Results",
+  },
+  {
+    href: "https://players.profbint.com",
+    label: "Players",
+  },
+  {
+    href: "https://profbint.com",
+    label: "Pro Football Intel",
+  },
+];
 
 export default function Header() {
   return (
@@ -15,47 +38,48 @@ export default function Header() {
 
         <GlobalPlayerSearch />
 
-        <nav className="hidden items-center gap-6 text-sm text-slate-300 md:flex">
-          <Link href="/" className="hover:text-yellow-400">
-            Players
-          </Link>
-
-          <div className="group relative">
-            <button className="hover:text-yellow-400">Leagues ▾</button>
-
-            <div className="invisible absolute left-0 top-8 w-56 rounded-xl border border-slate-800 bg-slate-950 p-2 opacity-0 shadow-xl transition group-hover:visible group-hover:opacity-100">
-              {LEAGUES.map((league) => (
-                <Link
-                  key={league.id}
-                  href={`/leagues/${league.id}`}
-                  className="block rounded-lg px-3 py-2 hover:bg-slate-900 hover:text-yellow-400"
-                >
-                  {league.name}
-                </Link>
-              ))}
-            </div>
-          </div>
+        <nav className="hidden items-center gap-2 md:flex">
+          {NAV_LINKS.map((item) => (
+            <a
+              key={`${item.label}-${item.href}`}
+              href={item.href}
+              className={
+                item.active
+                  ? "rounded-full border border-yellow-400/40 bg-yellow-400/10 px-4 py-2 text-xs font-black text-yellow-300 transition hover:bg-yellow-400/15"
+                  : "rounded-full border border-white/10 bg-white/[0.04] px-4 py-2 text-xs font-black text-slate-300 transition hover:border-yellow-400/40 hover:text-yellow-300"
+              }
+            >
+              {item.label}
+            </a>
+          ))}
         </nav>
 
-        <div className="flex items-center gap-2 text-sm">
-          <Link
-            href="#leagues"
-            className="rounded-lg border border-white/10 px-3 py-2 font-semibold text-slate-300 hover:border-yellow-400/50 hover:text-white md:hidden"
-          >
-            Leagues
-          </Link>
-
-          <a
-            href="https://profbint.com"
-            className="hidden rounded-lg bg-yellow-500 px-3 py-2 font-semibold text-slate-950 hover:bg-yellow-400 sm:inline-block"
-          >
-            Predictions →
-          </a>
-        </div>
+        <a
+          href="https://predictions.profbint.com"
+          className="rounded-lg bg-yellow-500 px-3 py-2 text-sm font-semibold text-slate-950 transition hover:bg-yellow-400 md:hidden"
+        >
+          Predictions
+        </a>
       </div>
 
-      <div className="border-t border-white/10 px-4 py-3 lg:hidden">
+      <div className="border-t border-white/10 px-4 py-3 md:hidden">
         <GlobalPlayerSearch mobile />
+
+        <nav className="mt-3 flex max-w-full gap-2 overflow-x-auto pb-1">
+          {NAV_LINKS.map((item) => (
+            <a
+              key={`mobile-${item.label}-${item.href}`}
+              href={item.href}
+              className={
+                item.active
+                  ? "shrink-0 rounded-full border border-yellow-400/40 bg-yellow-400/10 px-3 py-2 text-xs font-black text-yellow-300"
+                  : "shrink-0 rounded-full border border-white/10 bg-white/[0.04] px-3 py-2 text-xs font-black text-slate-300"
+              }
+            >
+              {item.label}
+            </a>
+          ))}
+        </nav>
       </div>
     </header>
   );
