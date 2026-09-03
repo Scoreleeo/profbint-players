@@ -30,13 +30,70 @@ async function getTeamOfWeek(): Promise<TeamOfWeekPlayer[]> {
   }
 }
 
+function PlayerCard({
+  player,
+}: {
+  player: TeamOfWeekPlayer;
+}) {
+  return (
+    <Link
+      href={`/players/${player.id}`}
+      className="group w-full rounded-3xl border border-white/10 bg-white/[0.04] p-4 transition hover:-translate-y-1 hover:border-yellow-400/60 hover:bg-white/[0.06]"
+    >
+      <div className="flex items-center gap-4">
+        <div className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-2xl bg-white p-1.5">
+          {player.photo ? (
+            <img
+              src={player.photo}
+              alt={player.name}
+              className="h-full w-full rounded-xl object-cover"
+            />
+          ) : (
+            <span className="text-2xl">👤</span>
+          )}
+        </div>
+
+        <div className="min-w-0">
+          <p className="truncate font-black text-white">
+            {player.name}
+          </p>
+
+          <p className="truncate text-sm text-slate-400">
+            {player.teamName}
+          </p>
+
+          <p className="mt-1 text-xs font-bold uppercase tracking-[0.16em] text-yellow-400">
+            {player.position}
+          </p>
+        </div>
+      </div>
+    </Link>
+  );
+}
+
 export default async function FeaturedPlayer() {
   const players = await getTeamOfWeek();
+
+  const goalkeepers = players.filter(
+    (player) => player.position === "Goalkeeper"
+  );
+
+  const defenders = players.filter(
+    (player) => player.position === "Defender"
+  );
+
+  const midfielders = players.filter(
+    (player) => player.position === "Midfielder"
+  );
+
+  const forwards = players.filter(
+    (player) => player.position === "Forward"
+  );
 
   return (
     <section className="scroll-mt-24">
       <div className="overflow-hidden rounded-[2rem] border border-yellow-400/20 bg-gradient-to-br from-slate-900 via-slate-950 to-[#07111f] p-5 shadow-2xl shadow-black/30 sm:p-6 lg:p-8">
-        <div className="mb-6 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+        <div className="mb-8 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
           <div>
             <div className="inline-flex rounded-full border border-yellow-400/30 bg-yellow-400/10 px-4 py-2 text-xs font-black uppercase tracking-[0.18em] text-yellow-300 sm:text-sm">
               ⭐ Pro Football Intel
@@ -69,40 +126,42 @@ export default async function FeaturedPlayer() {
             </p>
           </div>
         ) : (
-          <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-            {players.map((player) => (
-              <Link
-                key={player.id}
-                href={`/players/${player.id}`}
-                className="group rounded-3xl border border-white/10 bg-white/[0.04] p-4 transition hover:-translate-y-1 hover:border-yellow-400/60 hover:bg-white/[0.06]"
-              >
-                <div className="flex items-center gap-4">
-                  <div className="flex h-16 w-16 shrink-0 items-center justify-center overflow-hidden rounded-2xl bg-white p-1.5">
-                    {player.photo ? (
-                      <img
-                        src={player.photo}
-                        alt={player.name}
-                        className="h-full w-full rounded-xl object-cover"
-                      />
-                    ) : (
-                      <span className="text-2xl">👤</span>
-                    )}
-                  </div>
+          <div className="space-y-6">
+            <div className="mx-auto grid max-w-sm grid-cols-1">
+              {goalkeepers.map((player) => (
+                <PlayerCard
+                  key={player.id}
+                  player={player}
+                />
+              ))}
+            </div>
 
-                  <div className="min-w-0">
-                    <p className="truncate font-black text-white">
-                      {player.name}
-                    </p>
-                    <p className="truncate text-sm text-slate-400">
-                      {player.teamName}
-                    </p>
-                    <p className="mt-1 text-xs font-bold uppercase tracking-[0.16em] text-yellow-400">
-                      {player.position}
-                    </p>
-                  </div>
-                </div>
-              </Link>
-            ))}
+            <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
+              {defenders.map((player) => (
+                <PlayerCard
+                  key={player.id}
+                  player={player}
+                />
+              ))}
+            </div>
+
+            <div className="mx-auto grid max-w-4xl gap-4 sm:grid-cols-3">
+              {midfielders.map((player) => (
+                <PlayerCard
+                  key={player.id}
+                  player={player}
+                />
+              ))}
+            </div>
+
+            <div className="mx-auto grid max-w-4xl gap-4 sm:grid-cols-3">
+              {forwards.map((player) => (
+                <PlayerCard
+                  key={player.id}
+                  player={player}
+                />
+              ))}
+            </div>
           </div>
         )}
       </div>
