@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": 47270,
+    "name": "Unai Simón",
+    "teamName": "Athletic Club",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/47270.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
+    "score": 96.4
+  },
+  {
+    "id": 390002,
+    "name": "Mateo Chávez",
+    "teamName": "AZ Alkmaar",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/390002.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/201.png",
+    "score": 101.35
+  },
+  {
+    "id": 38735,
+    "name": "Sergiño Dest",
+    "teamName": "PSV Eindhoven",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/38735.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/197.png",
+    "score": 98
+  },
+  {
+    "id": 284492,
+    "name": "Lewis Hall",
+    "teamName": "Newcastle",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/284492.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/34.png",
+    "score": 96.8
+  },
+  {
+    "id": 379504,
+    "name": "Gabriele Bracaglia",
+    "teamName": "Frosinone",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/379504.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/512.png",
+    "score": 96.8
+  },
+  {
+    "id": 1485,
+    "name": "Bruno Fernandes",
+    "teamName": "Manchester United",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/1485.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/33.png",
+    "score": 130.05
+  },
+  {
+    "id": 199143,
+    "name": "Yuito Suzuki",
+    "teamName": "SC Freiburg",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/199143.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/160.png",
+    "score": 119.35
+  },
+  {
+    "id": 386828,
+    "name": "Lamine Yamal",
+    "teamName": "Barcelona",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/386828.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
+    "score": 117.45
+  },
+  {
+    "id": 457101,
+    "name": "Yassir Zabiri",
+    "teamName": "Racing Santander",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/457101.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/4665.png",
+    "score": 124.75
+  },
+  {
+    "id": 409190,
+    "name": "Younes Ebnoutalib",
+    "teamName": "Eintracht Frankfurt",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/409190.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/169.png",
+    "score": 120.75
+  },
+  {
+    "id": 369544,
+    "name": "Gessime Yassine",
+    "teamName": "Strasbourg",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/369544.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/95.png",
+    "score": 115.5
+  }
+]
