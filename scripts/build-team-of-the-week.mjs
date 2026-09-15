@@ -355,9 +355,9 @@ async function main() {
 
       allPlayers.push(...players);
     } catch (error) {
-      console.warn(
-        `${league.name} failed:`,
-        error.message
+      throw new Error(
+        `${league.name} failed. Team of the Week was not updated. ` +
+          `Reason: ${error.message}`
       );
     }
 
