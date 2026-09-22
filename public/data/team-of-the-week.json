@@ -1,101 +1,101 @@
 [
   {
-    "id": 1139,
-    "name": "P. Gulácsi",
-    "teamName": "Villarreal",
+    "id": 327774,
+    "name": "Lorenzo Palmisani",
+    "teamName": "Frosinone",
     "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/1139.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
-    "score": 96
+    "photo": "https://media.api-sports.io/football/players/327774.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/512.png",
+    "score": 105.6
   },
   {
-    "id": 359390,
-    "name": "G. Read",
-    "teamName": "Feyenoord",
+    "id": 509,
+    "name": "A. Davies",
+    "teamName": "Bayern München",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/359390.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/209.png",
-    "score": 111.95
+    "photo": "https://media.api-sports.io/football/players/509.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/157.png",
+    "score": 95.9
   },
   {
-    "id": 261,
-    "name": "T. Kehrer",
-    "teamName": "Ajax",
+    "id": 162032,
+    "name": "Miguel Gutiérrez",
+    "teamName": "Bayer Leverkusen",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/261.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/194.png",
-    "score": 96.5
+    "photo": "https://media.api-sports.io/football/players/162032.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/168.png",
+    "score": 95
   },
   {
-    "id": 2915,
-    "name": "M. Ginter",
-    "teamName": "SC Freiburg",
+    "id": 30497,
+    "name": "Gleison Bremer",
+    "teamName": "Juventus",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/2915.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/160.png",
-    "score": 95.35
+    "photo": "https://media.api-sports.io/football/players/30497.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/496.png",
+    "score": 91.55
   },
   {
-    "id": 309792,
-    "name": "Kaiki",
-    "teamName": "Como",
+    "id": 315127,
+    "name": "R. Revivo",
+    "teamName": "Elche",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/309792.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/895.png",
+    "photo": "https://media.api-sports.io/football/players/315127.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/797.png",
     "score": 90.75
   },
   {
-    "id": 449249,
-    "name": "Franco Mastantuono",
-    "teamName": "Fiorentina",
+    "id": 19617,
+    "name": "M. Olise",
+    "teamName": "Bayern München",
     "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/449249.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/502.png",
-    "score": 124.4
+    "photo": "https://media.api-sports.io/football/players/19617.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/157.png",
+    "score": 125.3
   },
   {
-    "id": 301528,
-    "name": "A. Schjelderup",
-    "teamName": "Benfica",
+    "id": 305931,
+    "name": "Sorriso",
+    "teamName": "Famalicao",
     "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/301528.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/211.png",
-    "score": 117.55
+    "photo": "https://media.api-sports.io/football/players/305931.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/242.png",
+    "score": 119.45
   },
   {
-    "id": 178709,
-    "name": "Y. Engelhardt",
-    "teamName": "SC Freiburg",
+    "id": 182519,
+    "name": "Alberto Moleiro",
+    "teamName": "Villarreal",
     "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/178709.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/160.png",
-    "score": 114.8
+    "photo": "https://media.api-sports.io/football/players/182519.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/533.png",
+    "score": 114.85
   },
   {
-    "id": 37438,
-    "name": "S. Mijnans",
-    "teamName": "PSV Eindhoven",
+    "id": 38750,
+    "name": "B. Brobbey",
+    "teamName": "Sunderland",
     "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/37438.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/197.png",
-    "score": 119.05
+    "photo": "https://media.api-sports.io/football/players/38750.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/746.png",
+    "score": 121.7
   },
   {
-    "id": 353943,
-    "name": "Nacho Ferri",
+    "id": 1496,
+    "name": "Raphinha",
+    "teamName": "Barcelona",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/1496.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
+    "score": 121.05
+  },
+  {
+    "id": 326067,
+    "name": "A. Hadj-Moussa",
     "teamName": "Feyenoord",
     "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/353943.png",
+    "photo": "https://media.api-sports.io/football/players/326067.png",
     "teamLogo": "https://media.api-sports.io/football/teams/209.png",
-    "score": 114.95
-  },
-  {
-    "id": 278,
-    "name": "Kylian Mbappé",
-    "teamName": "Real Madrid",
-    "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/278.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "score": 111.75
+    "score": 113.3
   }
 ]
