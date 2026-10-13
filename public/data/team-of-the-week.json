@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": 1924,
+    "name": "M. Vandevoordt",
+    "teamName": "RB Leipzig",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/1924.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/173.png",
+    "score": 102.9
+  },
+  {
+    "id": 90957,
+    "name": "M. Rente",
+    "teamName": "Groningen",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/90957.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/202.png",
+    "score": 105.8
+  },
+  {
+    "id": 135505,
+    "name": "S. Dahl",
+    "teamName": "Benfica",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/135505.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/211.png",
+    "score": 96.5
+  },
+  {
+    "id": 25342,
+    "name": "Maximilian Mittelstädt",
+    "teamName": "VfB Stuttgart",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/25342.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
+    "score": 95.05
+  },
+  {
+    "id": 26243,
+    "name": "Nico Schlotterbeck",
+    "teamName": "Borussia Dortmund",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/26243.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/165.png",
+    "score": 94.1
+  },
+  {
+    "id": 269,
+    "name": "C. Nkunku",
+    "teamName": "RB Leipzig",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/269.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/173.png",
+    "score": 123.45
+  },
+  {
+    "id": 292,
+    "name": "Jordan Henderson",
+    "teamName": "Chelsea",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/292.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/49.png",
+    "score": 116.7
+  },
+  {
+    "id": 22244,
+    "name": "Anthony Caci",
+    "teamName": "FSV Mainz 05",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/22244.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
+    "score": 110.4
+  },
+  {
+    "id": 266814,
+    "name": "Yoann Cathline",
+    "teamName": "Utrecht",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/266814.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/207.png",
+    "score": 115.5
+  },
+  {
+    "id": 66817,
+    "name": "N. Krstović",
+    "teamName": "Atalanta",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/66817.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/499.png",
+    "score": 110
+  },
+  {
+    "id": 327536,
+    "name": "R. Ure",
+    "teamName": "Sevilla",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/327536.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/536.png",
+    "score": 102.35
+  }
+]
