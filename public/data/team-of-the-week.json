@@ -1,101 +1,101 @@
 [
   {
-    "id": 162445,
-    "name": "Filip Stanković",
-    "teamName": "Venezia",
+    "id": 199578,
+    "name": "Zion Suzuki",
+    "teamName": "Aston Villa",
     "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/162445.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/517.png",
-    "score": 107.2
+    "photo": "https://media.api-sports.io/football/players/199578.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/66.png",
+    "score": 94.8
   },
   {
-    "id": 384135,
-    "name": "Javi Rodríguez",
-    "teamName": "Celta Vigo",
+    "id": 22224,
+    "name": "Gabriel Magalhães",
+    "teamName": "Arsenal",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/384135.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "score": 105
+    "photo": "https://media.api-sports.io/football/players/22224.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/42.png",
+    "score": 99.35
   },
   {
-    "id": 448977,
-    "name": "E. Kouadio",
-    "teamName": "Monza",
+    "id": 47273,
+    "name": "Yuri Berchiche",
+    "teamName": "Athletic Club",
     "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/448977.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/1579.png",
-    "score": 95.4
+    "photo": "https://media.api-sports.io/football/players/47273.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
+    "score": 98.5
   },
   {
-    "id": 425585,
-    "name": "O. Braude",
+    "id": 6,
+    "name": "Leonardo Balerdi",
+    "teamName": "AS Roma",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/6.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/497.png",
+    "score": 98.5
+  },
+  {
+    "id": 20093,
+    "name": "James Hill",
+    "teamName": "Bournemouth",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/20093.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/35.png",
+    "score": 95.95
+  },
+  {
+    "id": 30510,
+    "name": "Álex Berenguer",
+    "teamName": "Athletic Club",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/30510.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
+    "score": 119.4
+  },
+  {
+    "id": 281662,
+    "name": "J. Trenskow",
     "teamName": "Heerenveen",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/425585.png",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/281662.png",
     "teamLogo": "https://media.api-sports.io/football/teams/210.png",
-    "score": 94.4
+    "score": 108.75
   },
   {
-    "id": 396623,
-    "name": "Pau Cubarsí",
-    "teamName": "Barcelona",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/396623.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/529.png",
-    "score": 92.85
-  },
-  {
-    "id": 2489,
-    "name": "Luis Díaz",
-    "teamName": "Bayern München",
+    "id": 903,
+    "name": "Scott McTominay",
+    "teamName": "Napoli",
     "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/2489.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/157.png",
-    "score": 130.4
+    "photo": "https://media.api-sports.io/football/players/903.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/492.png",
+    "score": 108
   },
   {
-    "id": 1864,
-    "name": "Pedro Neto",
-    "teamName": "Chelsea",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/1864.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/49.png",
-    "score": 113.75
-  },
-  {
-    "id": 38822,
-    "name": "T. Oosting",
-    "teamName": "PEC Zwolle",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/38822.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/193.png",
-    "score": 110
-  },
-  {
-    "id": 90617,
-    "name": "Lassine Sinayoko",
-    "teamName": "Paris FC",
+    "id": 326102,
+    "name": "Rômulo",
+    "teamName": "RB Leipzig",
     "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/90617.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/114.png",
-    "score": 122.5
+    "photo": "https://media.api-sports.io/football/players/326102.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/173.png",
+    "score": 115.75
   },
   {
-    "id": 340547,
-    "name": "Gustavo Varela",
-    "teamName": "Monza",
+    "id": 66817,
+    "name": "Nikola Krstović",
+    "teamName": "Atalanta",
     "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/340547.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/1579.png",
-    "score": 118.6
+    "photo": "https://media.api-sports.io/football/players/66817.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/499.png",
+    "score": 111.5
   },
   {
-    "id": 1100,
-    "name": "Erling Haaland",
-    "teamName": "Manchester City",
+    "id": 283058,
+    "name": "Nicolas Jackson",
+    "teamName": "Aston Villa",
     "position": "Forward",
-    "photo": "https://media.api-sports.io/football/players/1100.png",
-    "teamLogo": "https://media.api-sports.io/football/teams/50.png",
-    "score": 115.5
+    "photo": "https://media.api-sports.io/football/players/283058.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/66.png",
+    "score": 108.5
   }
 ]
