@@ -577,7 +577,7 @@
     "leagueName": "Primeira Liga",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/397737.png",
-    "searchText": "a. chemong benfica primeira liga midfielder portugal"
+    "searchText": "a. chemong benfica primeira liga midfielder portugal thailand"
   },
   {
     "id": 129959,
@@ -907,7 +907,7 @@
     "leagueName": "Serie A",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/30532.png",
-    "searchText": "a. duncan venezia serie a midfielder italy"
+    "searchText": "a. duncan venezia serie a midfielder italy ghana"
   },
   {
     "id": 445447,
@@ -1295,9 +1295,9 @@
     "teamName": "Lyon",
     "teamLogo": "https://media.api-sports.io/football/teams/80.png",
     "leagueName": "Ligue 1",
-    "position": "Midfielder",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/623922.png",
-    "searchText": "a. hamdani lyon ligue 1 midfielder france"
+    "searchText": "a. hamdani lyon ligue 1 attacker france"
   },
   {
     "id": 453702,
@@ -2450,6 +2450,16 @@
     "searchText": "a. saelemaekers ac milan serie a attacker italy belgium"
   },
   {
+    "id": 462864,
+    "name": "A. Saidi",
+    "teamName": "Benfica",
+    "teamLogo": "https://media.api-sports.io/football/teams/211.png",
+    "leagueName": "Primeira Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/462864.png",
+    "searchText": "a. saidi benfica primeira liga attacker portugal"
+  },
+  {
     "id": 1427,
     "name": "A. Sambi Lokonga",
     "teamName": "Hamburger SV",
@@ -3517,7 +3527,7 @@
     "leagueName": "La Liga",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/47119.png",
-    "searchText": "aitor ruibal real betis la liga attacker spain"
+    "searchText": "aitor ruibal real betis la liga attacker spain spain"
   },
   {
     "id": 195110,
@@ -7197,7 +7207,7 @@
     "leagueName": "Bundesliga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/524214.png",
-    "searchText": "cassiano kiala bayern münchen bundesliga defender germany"
+    "searchText": "cassiano kiala bayern münchen bundesliga defender germany germany"
   },
   {
     "id": 47533,
@@ -8977,7 +8987,7 @@
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/733.png",
-    "searchText": "dani carvajal getafe la liga defender spain"
+    "searchText": "dani carvajal getafe la liga defender spain spain"
   },
   {
     "id": 748,
@@ -9535,9 +9545,9 @@
     "teamName": "SC Braga",
     "teamLogo": "https://media.api-sports.io/football/teams/217.png",
     "leagueName": "Primeira Liga",
-    "position": "Midfielder",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/361371.png",
-    "searchText": "diego rodrigues sc braga primeira liga midfielder portugal portugal"
+    "searchText": "diego rodrigues sc braga primeira liga attacker portugal portugal"
   },
   {
     "id": 669865,
@@ -10307,17 +10317,7 @@
     "leagueName": "Premier League",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/368030.png",
-    "searchText": "e. kroupi bournemouth premier league attacker england"
-  },
-  {
-    "id": 525018,
-    "name": "E. Larsen",
-    "teamName": "Lecce",
-    "teamLogo": "https://media.api-sports.io/football/teams/867.png",
-    "leagueName": "Serie A",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/525018.png",
-    "searchText": "e. larsen lecce serie a defender italy"
+    "searchText": "e. kroupi bournemouth premier league attacker england france"
   },
   {
     "id": 32137,
@@ -10438,16 +10438,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/18404.png",
     "searchText": "e. mason-clark coventry premier league midfielder england england"
-  },
-  {
-    "id": 162991,
-    "name": "E. Matazo",
-    "teamName": "Hull City",
-    "teamLogo": "https://media.api-sports.io/football/teams/64.png",
-    "leagueName": "Premier League",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/162991.png",
-    "searchText": "e. matazo hull city premier league midfielder england"
   },
   {
     "id": 304582,
@@ -12420,16 +12410,6 @@
     "searchText": "fedde raats excelsior eredivisie midfielder netherlands"
   },
   {
-    "id": 616827,
-    "name": "Felipe Lima",
-    "teamName": "Benfica",
-    "teamLogo": "https://media.api-sports.io/football/teams/211.png",
-    "leagueName": "Primeira Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/616827.png",
-    "searchText": "felipe lima benfica primeira liga attacker portugal"
-  },
-  {
     "id": 321845,
     "name": "Felipe Silva",
     "teamName": "Casa Pia",
@@ -14310,6 +14290,16 @@
     "searchText": "guevara alaves la liga midfielder spain spain"
   },
   {
+    "id": 480410,
+    "name": "Gui Beleza",
+    "teamName": "GIL Vicente",
+    "teamLogo": "https://media.api-sports.io/football/teams/762.png",
+    "leagueName": "Primeira Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/480410.png",
+    "searchText": "gui beleza gil vicente primeira liga midfielder portugal portugal"
+  },
+  {
     "id": 453964,
     "name": "Guido Della Rovere",
     "teamName": "Bayern München",
@@ -15867,7 +15857,7 @@
     "leagueName": "La Liga",
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/460594.png",
-    "searchText": "i. voloshyn real madrid la liga goalkeeper spain"
+    "searchText": "i. voloshyn real madrid la liga goalkeeper spain ukraine"
   },
   {
     "id": 47294,
@@ -16237,7 +16227,7 @@
     "leagueName": "Eredivisie",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/40201.png",
-    "searchText": "iván márquez fortuna sittard eredivisie defender netherlands"
+    "searchText": "iván márquez fortuna sittard eredivisie defender netherlands spain"
   },
   {
     "id": 1700,
@@ -16908,6 +16898,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/128287.png",
     "searchText": "j. chotard stade brestois 29 ligue 1 midfielder france france"
+  },
+  {
+    "id": 124,
+    "name": "J. Cillessen",
+    "teamName": "GO Ahead Eagles",
+    "teamLogo": "https://media.api-sports.io/football/teams/410.png",
+    "leagueName": "Eredivisie",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/124.png",
+    "searchText": "j. cillessen go ahead eagles eredivisie goalkeeper netherlands netherlands"
   },
   {
     "id": 19136,
@@ -19900,16 +19900,6 @@
     "searchText": "jordy bawuah twente eredivisie midfielder netherlands belgium"
   },
   {
-    "id": 432080,
-    "name": "Jorge Benito",
-    "teamName": "Getafe",
-    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
-    "leagueName": "La Liga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/432080.png",
-    "searchText": "jorge benito getafe la liga goalkeeper spain"
-  },
-  {
     "id": 408320,
     "name": "Jorge Cabello",
     "teamName": "Levante",
@@ -20378,6 +20368,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/284359.png",
     "searchText": "justin quincy hubner fortuna sittard eredivisie defender netherlands netherlands"
+  },
+  {
+    "id": 689241,
+    "name": "Juvenal Correia",
+    "teamName": "Famalicao",
+    "teamLogo": "https://media.api-sports.io/football/teams/242.png",
+    "leagueName": "Primeira Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/689241.png",
+    "searchText": "juvenal correia famalicao primeira liga attacker portugal"
   },
   {
     "id": 449158,
@@ -23370,16 +23370,6 @@
     "searchText": "l. valenti parma serie a defender italy argentina"
   },
   {
-    "id": 638245,
-    "name": "L. van Parys",
-    "teamName": "Fortuna Sittard",
-    "teamLogo": "https://media.api-sports.io/football/teams/205.png",
-    "leagueName": "Eredivisie",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/638245.png",
-    "searchText": "l. van parys fortuna sittard eredivisie goalkeeper netherlands"
-  },
-  {
     "id": 666941,
     "name": "L. Vanderbruggen",
     "teamName": "Cambuur",
@@ -23398,16 +23388,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/281933.png",
     "searchText": "l. vonić moreirense primeira liga attacker portugal germany"
-  },
-  {
-    "id": 441231,
-    "name": "L. Voufack",
-    "teamName": "RB Leipzig",
-    "teamLogo": "https://media.api-sports.io/football/teams/173.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/441231.png",
-    "searchText": "l. voufack rb leipzig bundesliga defender germany"
   },
   {
     "id": 585777,
@@ -25010,6 +24990,16 @@
     "searchText": "m. el boukammiri casa pia primeira liga attacker portugal belgium"
   },
   {
+    "id": 432311,
+    "name": "M. El Mala",
+    "teamName": "1. FC Köln",
+    "teamLogo": "https://media.api-sports.io/football/teams/192.png",
+    "leagueName": "Bundesliga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/432311.png",
+    "searchText": "m. el mala 1. fc köln bundesliga attacker germany germany"
+  },
+  {
     "id": 284796,
     "name": "M. Elimbi Gilbert",
     "teamName": "GIL Vicente",
@@ -25247,7 +25237,7 @@
     "leagueName": "Ligue 1",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/359386.png",
-    "searchText": "m. godo strasbourg ligue 1 attacker france"
+    "searchText": "m. godo strasbourg ligue 1 attacker france england"
   },
   {
     "id": 340153,
@@ -25470,16 +25460,6 @@
     "searchText": "m. ihattaren fortuna sittard eredivisie midfielder netherlands netherlands"
   },
   {
-    "id": 493421,
-    "name": "M. James",
-    "teamName": "1. FC Köln",
-    "teamLogo": "https://media.api-sports.io/football/teams/192.png",
-    "leagueName": "Bundesliga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/493421.png",
-    "searchText": "m. james 1. fc köln bundesliga goalkeeper germany"
-  },
-  {
     "id": 380702,
     "name": "M. Jemide",
     "teamName": "Alverca",
@@ -25588,6 +25568,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/2934.png",
     "searchText": "m. keane everton premier league defender england england"
+  },
+  {
+    "id": 565706,
+    "name": "M. Kebdani",
+    "teamName": "Vitória SC",
+    "teamLogo": "https://media.api-sports.io/football/teams/224.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/565706.png",
+    "searchText": "m. kebdani vitória sc primeira liga defender portugal"
   },
   {
     "id": 308836,
@@ -25757,7 +25747,7 @@
     "leagueName": "Serie A",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/461830.png",
-    "searchText": "m. lavelli inter serie a attacker italy"
+    "searchText": "m. lavelli inter serie a attacker italy italy"
   },
   {
     "id": 30866,
@@ -27417,7 +27407,7 @@
     "leagueName": "Primeira Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/515985.png",
-    "searchText": "m. zekri sporting cp primeira liga defender portugal"
+    "searchText": "m. zekri sporting cp primeira liga defender portugal morocco"
   },
   {
     "id": 557473,
@@ -28378,16 +28368,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/429479.png",
     "searchText": "miguel nogueira vitória sc primeira liga midfielder portugal portugal"
-  },
-  {
-    "id": 161591,
-    "name": "Miguel Puche",
-    "teamName": "Arouca",
-    "teamLogo": "https://media.api-sports.io/football/teams/240.png",
-    "leagueName": "Primeira Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/161591.png",
-    "searchText": "miguel puche arouca primeira liga attacker portugal"
   },
   {
     "id": 192434,
@@ -33050,6 +33030,16 @@
     "searchText": "r. guitane estoril primeira liga midfielder portugal france"
   },
   {
+    "id": 21378,
+    "name": "R. Gurtner",
+    "teamName": "Lens",
+    "teamLogo": "https://media.api-sports.io/football/teams/116.png",
+    "leagueName": "Ligue 1",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/21378.png",
+    "searchText": "r. gurtner lens ligue 1 goalkeeper france"
+  },
+  {
     "id": 725,
     "name": "R. Hack",
     "teamName": "Borussia Mönchengladbach",
@@ -34520,6 +34510,16 @@
     "searchText": "rodrigo guth fortuna sittard eredivisie defender netherlands brazil"
   },
   {
+    "id": 401922,
+    "name": "Rodrigo Macedo",
+    "teamName": "Vitória SC",
+    "teamLogo": "https://media.api-sports.io/football/teams/224.png",
+    "leagueName": "Primeira Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/401922.png",
+    "searchText": "rodrigo macedo vitória sc primeira liga attacker portugal"
+  },
+  {
     "id": 341371,
     "name": "Rodrigo Mendoza",
     "teamName": "Atletico Madrid",
@@ -34630,6 +34630,16 @@
     "searchText": "roy leicester groningen eredivisie defender netherlands"
   },
   {
+    "id": 340635,
+    "name": "Rubén",
+    "teamName": "Deportivo La Coruna",
+    "teamLogo": "https://media.api-sports.io/football/teams/544.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/340635.png",
+    "searchText": "rubén deportivo la coruna la liga midfielder spain spain"
+  },
+  {
     "id": 567,
     "name": "Rúben Dias",
     "teamName": "Manchester City",
@@ -34658,6 +34668,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/302277.png",
     "searchText": "rubén gómez villarreal la liga goalkeeper spain spain"
+  },
+  {
+    "id": 439032,
+    "name": "Rubén Montero",
+    "teamName": "Alaves",
+    "teamLogo": "https://media.api-sports.io/football/teams/542.png",
+    "leagueName": "La Liga",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/439032.png",
+    "searchText": "rubén montero alaves la liga goalkeeper spain spain"
   },
   {
     "id": 380512,
@@ -34848,16 +34868,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/179540.png",
     "searchText": "s. andreou estoril primeira liga defender portugal cyprus"
-  },
-  {
-    "id": 395025,
-    "name": "S. Ashbee",
-    "teamName": "Hull City",
-    "teamLogo": "https://media.api-sports.io/football/teams/64.png",
-    "leagueName": "Premier League",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/395025.png",
-    "searchText": "s. ashbee hull city premier league defender england"
   },
   {
     "id": 322984,
@@ -37477,7 +37487,7 @@
     "leagueName": "Premier League",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/557460.png",
-    "searchText": "t. fletcher manchester united premier league midfielder england"
+    "searchText": "t. fletcher manchester united premier league midfielder england scotland"
   },
   {
     "id": 431160,
@@ -40568,6 +40578,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/1142.png",
     "searchText": "y. mvogo lorient ligue 1 goalkeeper france switzerland"
+  },
+  {
+    "id": 36932,
+    "name": "Y. Namli",
+    "teamName": "PEC Zwolle",
+    "teamLogo": "https://media.api-sports.io/football/teams/193.png",
+    "leagueName": "Eredivisie",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/36932.png",
+    "searchText": "y. namli pec zwolle eredivisie attacker netherlands denmark"
   },
   {
     "id": 3099,
