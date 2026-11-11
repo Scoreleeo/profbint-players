@@ -1,5 +1,15 @@
 [
   {
+    "id": 437483,
+    "name": "A.  Bamba",
+    "teamName": "GIL Vicente",
+    "teamLogo": "https://media.api-sports.io/football/teams/762.png",
+    "leagueName": "Primeira Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/437483.png",
+    "searchText": "a.  bamba gil vicente primeira liga midfielder portugal"
+  },
+  {
     "id": 49583,
     "name": "A. Abdi",
     "teamName": "Nice",
@@ -147,7 +157,7 @@
     "leagueName": "Premier League",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/422780.png",
-    "searchText": "a. anselmino chelsea premier league defender england"
+    "searchText": "a. anselmino chelsea premier league defender england argentina"
   },
   {
     "id": 137129,
@@ -228,16 +238,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/384423.png",
     "searchText": "a. bakoune monza serie a midfielder italy italy"
-  },
-  {
-    "id": 628981,
-    "name": "A. Ballanti",
-    "teamName": "Torino",
-    "teamLogo": "https://media.api-sports.io/football/teams/503.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/628981.png",
-    "searchText": "a. ballanti torino serie a midfielder italy"
   },
   {
     "id": 453792,
@@ -760,16 +760,6 @@
     "searchText": "a. descotte fortuna sittard eredivisie attacker netherlands belgium"
   },
   {
-    "id": 452456,
-    "name": "A. Di Bitonto",
-    "teamName": "Sassuolo",
-    "teamLogo": "https://media.api-sports.io/football/teams/488.png",
-    "leagueName": "Serie A",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/452456.png",
-    "searchText": "a. di bitonto sassuolo serie a defender italy italy"
-  },
-  {
     "id": 157997,
     "name": "A. Diallo",
     "teamName": "Manchester United",
@@ -828,16 +818,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/21998.png",
     "searchText": "a. disasi crystal palace premier league defender england france"
-  },
-  {
-    "id": 25586,
-    "name": "A. Donkor",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/25586.png",
-    "searchText": "a. donkor fc schalke 04 bundesliga defender germany"
   },
   {
     "id": 39115,
@@ -1190,16 +1170,6 @@
     "searchText": "a. guðmundsson lazio serie a attacker italy iceland"
   },
   {
-    "id": 548637,
-    "name": "A. Gulasi",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/548637.png",
-    "searchText": "a. gulasi fc schalke 04 bundesliga midfielder germany"
-  },
-  {
     "id": 291964,
     "name": "A. Güler",
     "teamName": "Real Madrid",
@@ -1347,7 +1317,7 @@
     "leagueName": "Bundesliga",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/45892.png",
-    "searchText": "a. ilić union berlin bundesliga attacker germany"
+    "searchText": "a. ilić union berlin bundesliga attacker germany serbia"
   },
   {
     "id": 545103,
@@ -1845,9 +1815,9 @@
     "teamName": "SC Paderborn 07",
     "teamLogo": "https://media.api-sports.io/football/teams/185.png",
     "leagueName": "Bundesliga",
-    "position": "Midfielder",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/573737.png",
-    "searchText": "a. millgramm sc paderborn 07 bundesliga midfielder germany"
+    "searchText": "a. millgramm sc paderborn 07 bundesliga attacker germany"
   },
   {
     "id": 647190,
@@ -2448,6 +2418,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/174927.png",
     "searchText": "a. sangante sevilla la liga defender spain senegal"
+  },
+  {
+    "id": 680899,
+    "name": "A. Santiago",
+    "teamName": "Espanyol",
+    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/680899.png",
+    "searchText": "a. santiago espanyol la liga midfielder spain"
   },
   {
     "id": 435739,
@@ -3080,16 +3060,6 @@
     "searchText": "a. zoukrou auxerre ligue 1 defender france"
   },
   {
-    "id": 636372,
-    "name": "A. Zovko",
-    "teamName": "Lecce",
-    "teamLogo": "https://media.api-sports.io/football/teams/867.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/636372.png",
-    "searchText": "a. zovko lecce serie a midfielder italy"
-  },
-  {
     "id": 321803,
     "name": "Á. Þorsteinsson",
     "teamName": "Excelsior",
@@ -3128,16 +3098,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/641317.png",
     "searchText": "aaron mayol valencia la liga defender spain spain"
-  },
-  {
-    "id": 522242,
-    "name": "Aaron Tchamda",
-    "teamName": "Torino",
-    "teamLogo": "https://media.api-sports.io/football/teams/503.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/522242.png",
-    "searchText": "aaron tchamda torino serie a midfielder italy"
   },
   {
     "id": 480311,
@@ -3288,6 +3248,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/313636.png",
     "searchText": "adler nascimento crystal palace premier league attacker england"
+  },
+  {
+    "id": 692233,
+    "name": "Adnane Kharroubi",
+    "teamName": "Le Mans",
+    "teamLogo": "https://media.api-sports.io/football/teams/1298.png",
+    "leagueName": "Ligue 1",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/692233.png",
+    "searchText": "adnane kharroubi le mans ligue 1 attacker france"
   },
   {
     "id": 162122,
@@ -4060,16 +4030,6 @@
     "searchText": "amar bakkati cambuur eredivisie defender netherlands"
   },
   {
-    "id": 642715,
-    "name": "Amin Bouchouari",
-    "teamName": "Telstar",
-    "teamLogo": "https://media.api-sports.io/football/teams/427.png",
-    "leagueName": "Eredivisie",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/642715.png",
-    "searchText": "amin bouchouari telstar eredivisie defender netherlands"
-  },
-  {
     "id": 554358,
     "name": "Amin Laoukili",
     "teamName": "Fortuna Sittard",
@@ -4078,16 +4038,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/554358.png",
     "searchText": "amin laoukili fortuna sittard eredivisie midfielder netherlands"
-  },
-  {
-    "id": 684356,
-    "name": "Amir El Abdouni",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/684356.png",
-    "searchText": "amir el abdouni fc schalke 04 bundesliga defender germany"
   },
   {
     "id": 1314,
@@ -5025,9 +4975,9 @@
     "teamName": "Frosinone",
     "teamLogo": "https://media.api-sports.io/football/teams/512.png",
     "leagueName": "Serie A",
-    "position": "Attacker",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/30513.png",
-    "searchText": "b. kone frosinone serie a attacker italy"
+    "searchText": "b. kone frosinone serie a midfielder italy"
   },
   {
     "id": 581945,
@@ -5517,7 +5467,7 @@
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/8746.png",
-    "searchText": "bambo diaby elche la liga defender spain"
+    "searchText": "bambo diaby elche la liga defender spain spain"
   },
   {
     "id": 655113,
@@ -6158,16 +6108,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/5998.png",
     "searchText": "c. ferreira academico viseu primeira liga midfielder portugal argentina"
-  },
-  {
-    "id": 584501,
-    "name": "C. Frangella",
-    "teamName": "Sassuolo",
-    "teamLogo": "https://media.api-sports.io/football/teams/488.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/584501.png",
-    "searchText": "c. frangella sassuolo serie a midfielder italy"
   },
   {
     "id": 24798,
@@ -7267,7 +7207,7 @@
     "leagueName": "La Liga",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/181582.png",
-    "searchText": "copete valencia la liga defender spain"
+    "searchText": "copete valencia la liga defender spain spain"
   },
   {
     "id": 204037,
@@ -7910,16 +7850,6 @@
     "searchText": "d. iglesias willem ii eredivisie midfielder netherlands"
   },
   {
-    "id": 621880,
-    "name": "D. Imafidon",
-    "teamName": "FSV Mainz 05",
-    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/621880.png",
-    "searchText": "d. imafidon fsv mainz 05 bundesliga midfielder germany"
-  },
-  {
     "id": 19329,
     "name": "D. James",
     "teamName": "Leeds",
@@ -8040,16 +7970,6 @@
     "searchText": "d. kohr fsv mainz 05 bundesliga defender germany germany"
   },
   {
-    "id": 51208,
-    "name": "D. Kreilach",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/51208.png",
-    "searchText": "d. kreilach union berlin bundesliga midfielder germany"
-  },
-  {
     "id": 30435,
     "name": "D. Kulusevski",
     "teamName": "Tottenham",
@@ -8098,6 +8018,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/1725.png",
     "searchText": "d. ljubičić fc schalke 04 bundesliga midfielder germany austria"
+  },
+  {
+    "id": 626410,
+    "name": "D. Lobo",
+    "teamName": "SC Braga",
+    "teamLogo": "https://media.api-sports.io/football/teams/217.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/626410.png",
+    "searchText": "d. lobo sc braga primeira liga defender portugal"
   },
   {
     "id": 629313,
@@ -8910,6 +8840,16 @@
     "searchText": "daan erdman groningen eredivisie goalkeeper netherlands netherlands"
   },
   {
+    "id": 516834,
+    "name": "Daan Visser",
+    "teamName": "Cambuur",
+    "teamLogo": "https://media.api-sports.io/football/teams/420.png",
+    "leagueName": "Eredivisie",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/516834.png",
+    "searchText": "daan visser cambuur eredivisie midfielder netherlands netherlands"
+  },
+  {
     "id": 299763,
     "name": "Dani Barcia",
     "teamName": "Deportivo La Coruna",
@@ -9660,16 +9600,6 @@
     "searchText": "diogo travassos sc braga primeira liga midfielder portugal portugal"
   },
   {
-    "id": 595869,
-    "name": "Divine Onyemachi",
-    "teamName": "Lecce",
-    "teamLogo": "https://media.api-sports.io/football/teams/867.png",
-    "leagueName": "Serie A",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/595869.png",
-    "searchText": "divine onyemachi lecce serie a attacker italy"
-  },
-  {
     "id": 579375,
     "name": "Djibirin Harouna",
     "teamName": "Angers",
@@ -9827,7 +9757,7 @@
     "leagueName": "Bundesliga",
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/343320.png",
-    "searchText": "e. ben seghir bayer leverkusen bundesliga attacker germany"
+    "searchText": "e. ben seghir bayer leverkusen bundesliga attacker germany morocco"
   },
   {
     "id": 385569,
@@ -10060,6 +9990,16 @@
     "searchText": "e. emegha chelsea premier league attacker england netherlands"
   },
   {
+    "id": 667663,
+    "name": "E. Etringer",
+    "teamName": "SV Elversberg",
+    "teamLogo": "https://media.api-sports.io/football/teams/1660.png",
+    "leagueName": "Bundesliga",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/667663.png",
+    "searchText": "e. etringer sv elversberg bundesliga goalkeeper germany"
+  },
+  {
     "id": 19586,
     "name": "E. Eze",
     "teamName": "Arsenal",
@@ -10108,6 +10048,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/314291.png",
     "searchText": "e. flataker go ahead eagles eredivisie attacker netherlands norway"
+  },
+  {
+    "id": 566877,
+    "name": "E. Gashi",
+    "teamName": "FC Schalke 04",
+    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
+    "leagueName": "Bundesliga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/566877.png",
+    "searchText": "e. gashi fc schalke 04 bundesliga midfielder germany"
   },
   {
     "id": 31073,
@@ -10200,16 +10150,6 @@
     "searchText": "e. i̇lkhan torino serie a midfielder italy türkiye"
   },
   {
-    "id": 478663,
-    "name": "E. İş",
-    "teamName": "Eintracht Frankfurt",
-    "teamLogo": "https://media.api-sports.io/football/teams/169.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/478663.png",
-    "searchText": "e. i̇ş eintracht frankfurt bundesliga midfielder germany"
-  },
-  {
     "id": 329640,
     "name": "E. Jaouen",
     "teamName": "Newcastle",
@@ -10270,6 +10210,16 @@
     "searchText": "e. kroupi bournemouth premier league attacker england france"
   },
   {
+    "id": 496479,
+    "name": "E. Lahti",
+    "teamName": "Hamburger SV",
+    "teamLogo": "https://media.api-sports.io/football/teams/175.png",
+    "leagueName": "Bundesliga",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/496479.png",
+    "searchText": "e. lahti hamburger sv bundesliga goalkeeper germany"
+  },
+  {
     "id": 32137,
     "name": "E. Latte Lath",
     "teamName": "Union Berlin",
@@ -10328,16 +10278,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/37781.png",
     "searchText": "e. linthorst go ahead eagles eredivisie midfielder netherlands netherlands"
-  },
-  {
-    "id": 351324,
-    "name": "E. Lolic",
-    "teamName": "Frosinone",
-    "teamLogo": "https://media.api-sports.io/football/teams/512.png",
-    "leagueName": "Serie A",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/351324.png",
-    "searchText": "e. lolic frosinone serie a goalkeeper italy"
   },
   {
     "id": 598615,
@@ -10820,6 +10760,16 @@
     "searchText": "e. wahi nice ligue 1 attacker france france"
   },
   {
+    "id": 570641,
+    "name": "E. Yigit",
+    "teamName": "VfB Stuttgart",
+    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
+    "leagueName": "Bundesliga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/570641.png",
+    "searchText": "e. yigit vfb stuttgart bundesliga midfielder germany"
+  },
+  {
     "id": 505518,
     "name": "E. Zabi",
     "teamName": "Paris FC",
@@ -11050,24 +11000,14 @@
     "searchText": "enguerrand bouard nice ligue 1 attacker france"
   },
   {
-    "id": 679439,
-    "name": "Enisio Carneiro",
-    "teamName": "Estac Troyes",
-    "teamLogo": "https://media.api-sports.io/football/teams/110.png",
-    "leagueName": "Ligue 1",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/679439.png",
-    "searchText": "enisio carneiro estac troyes ligue 1 defender france"
-  },
-  {
     "id": 504965,
     "name": "Enzo Vágner",
     "teamName": "Le Mans",
     "teamLogo": "https://media.api-sports.io/football/teams/1298.png",
     "leagueName": "Ligue 1",
-    "position": "Defender",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/504965.png",
-    "searchText": "enzo vágner le mans ligue 1 defender france"
+    "searchText": "enzo vágner le mans ligue 1 attacker france"
   },
   {
     "id": 380492,
@@ -11310,6 +11250,16 @@
     "searchText": "f. chiesa liverpool premier league attacker england italy"
   },
   {
+    "id": 563450,
+    "name": "F. Costa",
+    "teamName": "SC Braga",
+    "teamLogo": "https://media.api-sports.io/football/teams/217.png",
+    "leagueName": "Primeira Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/563450.png",
+    "searchText": "f. costa sc braga primeira liga attacker portugal"
+  },
+  {
     "id": 639656,
     "name": "F. Croci",
     "teamName": "Fiorentina",
@@ -11408,16 +11358,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/18932.png",
     "searchText": "f. forster bournemouth premier league goalkeeper england"
-  },
-  {
-    "id": 668541,
-    "name": "F. Gagzow",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/668541.png",
-    "searchText": "f. gagzow union berlin bundesliga goalkeeper germany"
   },
   {
     "id": 268341,
@@ -12170,16 +12110,6 @@
     "searchText": "fabio amadu uri baldé strasbourg ligue 1 attacker france portugal"
   },
   {
-    "id": 319841,
-    "name": "Fabio Blanco",
-    "teamName": "Vitória SC",
-    "teamLogo": "https://media.api-sports.io/football/teams/224.png",
-    "leagueName": "Primeira Liga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/319841.png",
-    "searchText": "fabio blanco vitória sc primeira liga attacker portugal"
-  },
-  {
     "id": 41208,
     "name": "Fábio Cardoso",
     "teamName": "Sevilla",
@@ -12248,16 +12178,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/41371.png",
     "searchText": "fali candé sassuolo serie a defender italy guinea-bissau"
-  },
-  {
-    "id": 394733,
-    "name": "Fayssal Harchaoui",
-    "teamName": "1. FC Köln",
-    "teamLogo": "https://media.api-sports.io/football/teams/192.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/394733.png",
-    "searchText": "fayssal harchaoui 1. fc köln bundesliga midfielder germany"
   },
   {
     "id": 672112,
@@ -13185,9 +13105,9 @@
     "teamName": "Celta Vigo",
     "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
-    "position": "Attacker",
+    "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/560932.png",
-    "searchText": "g. miller celta vigo la liga attacker spain"
+    "searchText": "g. miller celta vigo la liga defender spain"
   },
   {
     "id": 610695,
@@ -13208,16 +13128,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/25260.png",
     "searchText": "g. nauber go ahead eagles eredivisie defender netherlands germany"
-  },
-  {
-    "id": 567697,
-    "name": "G. Neves",
-    "teamName": "1. FC Köln",
-    "teamLogo": "https://media.api-sports.io/football/teams/192.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/567697.png",
-    "searchText": "g. neves 1. fc köln bundesliga midfielder germany"
   },
   {
     "id": 272539,
@@ -15310,6 +15220,16 @@
     "searchText": "i. julian alverca primeira liga defender portugal belgium"
   },
   {
+    "id": 670698,
+    "name": "I. K. Danfakha",
+    "teamName": "Getafe",
+    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/670698.png",
+    "searchText": "i. k. danfakha getafe la liga attacker spain"
+  },
+  {
     "id": 441274,
     "name": "I. Ka",
     "teamName": "AZ Alkmaar",
@@ -16000,16 +15920,6 @@
     "searchText": "isma sierra estoril primeira liga defender portugal spain"
   },
   {
-    "id": 675850,
-    "name": "Ismael Dabo",
-    "teamName": "Lecce",
-    "teamLogo": "https://media.api-sports.io/football/teams/867.png",
-    "leagueName": "Serie A",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/675850.png",
-    "searchText": "ismael dabo lecce serie a defender italy"
-  },
-  {
     "id": 161590,
     "name": "Iván Azón",
     "teamName": "Getafe",
@@ -16218,16 +16128,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/453955.png",
     "searchText": "j. afonso fc porto primeira liga goalkeeper portugal portugal"
-  },
-  {
-    "id": 380937,
-    "name": "J. Agyekum",
-    "teamName": "Hamburger SV",
-    "teamLogo": "https://media.api-sports.io/football/teams/175.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/380937.png",
-    "searchText": "j. agyekum hamburger sv bundesliga defender germany"
   },
   {
     "id": 662436,
@@ -16500,6 +16400,26 @@
     "searchText": "j. bisiwu barcelona la liga attacker spain"
   },
   {
+    "id": 668671,
+    "name": "J. Bissi Mouelle",
+    "teamName": "Hamburger SV",
+    "teamLogo": "https://media.api-sports.io/football/teams/175.png",
+    "leagueName": "Bundesliga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/668671.png",
+    "searchText": "j. bissi mouelle hamburger sv bundesliga defender germany"
+  },
+  {
+    "id": 585305,
+    "name": "J. Bita",
+    "teamName": "Racing Santander",
+    "teamLogo": "https://media.api-sports.io/football/teams/4665.png",
+    "leagueName": "La Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/585305.png",
+    "searchText": "j. bita racing santander la liga midfielder spain"
+  },
+  {
     "id": 37246,
     "name": "J. Blaswich",
     "teamName": "Bayer Leverkusen",
@@ -16617,7 +16537,7 @@
     "leagueName": "Premier League",
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/2930.png",
-    "searchText": "j. butland hull city premier league goalkeeper england"
+    "searchText": "j. butland hull city premier league goalkeeper england england"
   },
   {
     "id": 286894,
@@ -17077,7 +16997,7 @@
     "leagueName": "Premier League",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/383770.png",
-    "searchText": "j. fletcher manchester united premier league midfielder england"
+    "searchText": "j. fletcher manchester united premier league midfielder england england"
   },
   {
     "id": 666943,
@@ -17790,16 +17710,6 @@
     "searchText": "j. maja le havre ligue 1 attacker france nigeria"
   },
   {
-    "id": 385031,
-    "name": "J. Majchrzak",
-    "teamName": "VfB Stuttgart",
-    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/385031.png",
-    "searchText": "j. majchrzak vfb stuttgart bundesliga attacker germany"
-  },
-  {
     "id": 191160,
     "name": "J. Makengo",
     "teamName": "SC Freiburg",
@@ -17848,6 +17758,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/561033.png",
     "searchText": "j. martinez real madrid la liga defender spain"
+  },
+  {
+    "id": 405996,
+    "name": "J. Martínez",
+    "teamName": "Alverca",
+    "teamLogo": "https://media.api-sports.io/football/teams/4724.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/405996.png",
+    "searchText": "j. martínez alverca primeira liga defender portugal honduras"
   },
   {
     "id": 25927,
@@ -18030,6 +17950,16 @@
     "searchText": "j. mwanga le havre ligue 1 midfielder france france"
   },
   {
+    "id": 634823,
+    "name": "J. Ndiaye",
+    "teamName": "FC Schalke 04",
+    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
+    "leagueName": "Bundesliga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/634823.png",
+    "searchText": "j. ndiaye fc schalke 04 bundesliga attacker germany"
+  },
+  {
     "id": 567694,
     "name": "J. Neto",
     "teamName": "Benfica",
@@ -18138,6 +18068,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/561010.png",
     "searchText": "j. ortega strasbourg ligue 1 attacker france"
+  },
+  {
+    "id": 644007,
+    "name": "J. Peries",
+    "teamName": "Espanyol",
+    "teamLogo": "https://media.api-sports.io/football/teams/540.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/644007.png",
+    "searchText": "j. peries espanyol la liga attacker spain"
   },
   {
     "id": 570752,
@@ -18975,9 +18915,9 @@
     "teamName": "VfB Stuttgart",
     "teamLogo": "https://media.api-sports.io/football/teams/172.png",
     "leagueName": "Bundesliga",
-    "position": "Attacker",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/394665.png",
-    "searchText": "jarzinho ataide adriano de nascimento malanga vfb stuttgart bundesliga attacker germany"
+    "searchText": "jarzinho ataide adriano de nascimento malanga vfb stuttgart bundesliga midfielder germany"
   },
   {
     "id": 47566,
@@ -19308,6 +19248,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/19296.png",
     "searchText": "joão carvalho estoril primeira liga midfielder portugal portugal"
+  },
+  {
+    "id": 397929,
+    "name": "João Carvalho Fonseca",
+    "teamName": "Benfica",
+    "teamLogo": "https://media.api-sports.io/football/teams/211.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/397929.png",
+    "searchText": "joão carvalho fonseca benfica primeira liga defender portugal"
   },
   {
     "id": 195103,
@@ -19670,16 +19620,6 @@
     "searchText": "jonah benedict sticker sc paderborn 07 bundesliga defender germany germany"
   },
   {
-    "id": 431914,
-    "name": "Jonathan Akaegbobi",
-    "teamName": "VfB Stuttgart",
-    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/431914.png",
-    "searchText": "jonathan akaegbobi vfb stuttgart bundesliga attacker germany"
-  },
-  {
     "id": 354754,
     "name": "Jonathan Asp Jensen",
     "teamName": "Deportivo La Coruna",
@@ -19980,16 +19920,6 @@
     "searchText": "joshua kofi acheampong chelsea premier league defender england england"
   },
   {
-    "id": 388894,
-    "name": "Joyeux Masanka Bungi",
-    "teamName": "VfB Stuttgart",
-    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/388894.png",
-    "searchText": "joyeux masanka bungi vfb stuttgart bundesliga defender germany"
-  },
-  {
     "id": 454138,
     "name": "JP",
     "teamName": "Casa Pia",
@@ -20280,16 +20210,6 @@
     "searchText": "k. antonio lens ligue 1 defender france france"
   },
   {
-    "id": 213,
-    "name": "K. Baldé",
-    "teamName": "Monza",
-    "teamLogo": "https://media.api-sports.io/football/teams/1579.png",
-    "leagueName": "Serie A",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/213.png",
-    "searchText": "k. baldé monza serie a attacker italy"
-  },
-  {
     "id": 520840,
     "name": "K. Bezahaf",
     "teamName": "Marseille",
@@ -20518,6 +20438,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/19100.png",
     "searchText": "k. dowell hull city premier league midfielder england england"
+  },
+  {
+    "id": 667711,
+    "name": "K. Eerhart",
+    "teamName": "Cambuur",
+    "teamLogo": "https://media.api-sports.io/football/teams/420.png",
+    "leagueName": "Eredivisie",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/667711.png",
+    "searchText": "k. eerhart cambuur eredivisie midfielder netherlands"
   },
   {
     "id": 36916,
@@ -21690,16 +21620,6 @@
     "searchText": "l. badé bayer leverkusen bundesliga defender germany france"
   },
   {
-    "id": 551115,
-    "name": "L. Bakker",
-    "teamName": "PEC Zwolle",
-    "teamLogo": "https://media.api-sports.io/football/teams/193.png",
-    "leagueName": "Eredivisie",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/551115.png",
-    "searchText": "l. bakker pec zwolle eredivisie goalkeeper netherlands"
-  },
-  {
     "id": 6,
     "name": "L. Balerdi",
     "teamName": "AS Roma",
@@ -22118,16 +22038,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/44814.png",
     "searchText": "l. ferguson bologna serie a midfielder italy scotland"
-  },
-  {
-    "id": 671671,
-    "name": "L. Frechingues",
-    "teamName": "Toulouse",
-    "teamLogo": "https://media.api-sports.io/football/teams/96.png",
-    "leagueName": "Ligue 1",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/671671.png",
-    "searchText": "l. frechingues toulouse ligue 1 attacker france"
   },
   {
     "id": 37143,
@@ -22780,26 +22690,6 @@
     "searchText": "l. pellegrini as roma serie a midfielder italy italy"
   },
   {
-    "id": 535099,
-    "name": "L. Penna",
-    "teamName": "VfB Stuttgart",
-    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/535099.png",
-    "searchText": "l. penna vfb stuttgart bundesliga attacker germany"
-  },
-  {
-    "id": 668547,
-    "name": "L. Pepinski",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/668547.png",
-    "searchText": "l. pepinski union berlin bundesliga attacker germany"
-  },
-  {
     "id": 288097,
     "name": "L. Petersson",
     "teamName": "1899 Hoffenheim",
@@ -23260,16 +23150,6 @@
     "searchText": "l. vozar fc schalke 04 bundesliga midfielder germany"
   },
   {
-    "id": 619702,
-    "name": "L. Vulin",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/619702.png",
-    "searchText": "l. vulin union berlin bundesliga midfielder germany"
-  },
-  {
     "id": 387521,
     "name": "L. Vušković",
     "teamName": "Brighton",
@@ -23690,6 +23570,16 @@
     "searchText": "lucas soares santa clara primeira liga defender portugal brazil"
   },
   {
+    "id": 431660,
+    "name": "Lucas Taibo",
+    "teamName": "Sporting CP",
+    "teamLogo": "https://media.api-sports.io/football/teams/228.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/431660.png",
+    "searchText": "lucas taibo sporting cp primeira liga defender portugal"
+  },
+  {
     "id": 1825,
     "name": "Lucas Torró",
     "teamName": "Osasuna",
@@ -23828,16 +23718,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/278619.png",
     "searchText": "luíz júnior villarreal la liga goalkeeper spain brazil"
-  },
-  {
-    "id": 353950,
-    "name": "Luke Gauer",
-    "teamName": "FSV Mainz 05",
-    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
-    "leagueName": "Bundesliga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/353950.png",
-    "searchText": "luke gauer fsv mainz 05 bundesliga goalkeeper germany"
   },
   {
     "id": 349063,
@@ -24167,7 +24047,7 @@
     "leagueName": "Ligue 1",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/314232.png",
-    "searchText": "m. bodmer le havre ligue 1 midfielder france"
+    "searchText": "m. bodmer le havre ligue 1 midfielder france france"
   },
   {
     "id": 96324,
@@ -24377,7 +24257,7 @@
     "leagueName": "Premier League",
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/478441.png",
-    "searchText": "m. cissé aston villa premier league defender england"
+    "searchText": "m. cissé aston villa premier league defender england senegal"
   },
   {
     "id": 437767,
@@ -24880,16 +24760,6 @@
     "searchText": "m. estève rb leipzig bundesliga defender germany france"
   },
   {
-    "id": 668543,
-    "name": "M. Etobe",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/668543.png",
-    "searchText": "m. etobe union berlin bundesliga midfielder germany"
-  },
-  {
     "id": 265448,
     "name": "M. Farji",
     "teamName": "Heerenveen",
@@ -25058,6 +24928,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/2915.png",
     "searchText": "m. ginter sc freiburg bundesliga defender germany germany"
+  },
+  {
+    "id": 690231,
+    "name": "M. Gning",
+    "teamName": "GIL Vicente",
+    "teamLogo": "https://media.api-sports.io/football/teams/762.png",
+    "leagueName": "Primeira Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/690231.png",
+    "searchText": "m. gning gil vicente primeira liga defender portugal"
   },
   {
     "id": 359386,
@@ -25300,16 +25180,6 @@
     "searchText": "m. jemide alverca primeira liga defender portugal england"
   },
   {
-    "id": 414188,
-    "name": "M. Jeng",
-    "teamName": "Groningen",
-    "teamLogo": "https://media.api-sports.io/football/teams/202.png",
-    "leagueName": "Eredivisie",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/414188.png",
-    "searchText": "m. jeng groningen eredivisie defender netherlands"
-  },
-  {
     "id": 47438,
     "name": "M. Jensen",
     "teamName": "Brentford",
@@ -25438,16 +25308,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/206254.png",
     "searchText": "m. kerkez liverpool premier league defender england hungary"
-  },
-  {
-    "id": 583908,
-    "name": "M. Khadr",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/583908.png",
-    "searchText": "m. khadr fc schalke 04 bundesliga defender germany"
   },
   {
     "id": 280399,
@@ -25718,16 +25578,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/22221.png",
     "searchText": "m. maignan ac milan serie a goalkeeper italy france"
-  },
-  {
-    "id": 685040,
-    "name": "M. Marchetti",
-    "teamName": "Frosinone",
-    "teamLogo": "https://media.api-sports.io/football/teams/512.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/685040.png",
-    "searchText": "m. marchetti frosinone serie a midfielder italy"
   },
   {
     "id": 621195,
@@ -26267,7 +26117,7 @@
     "leagueName": "Serie A",
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/30436.png",
-    "searchText": "m. pessina monza serie a midfielder italy"
+    "searchText": "m. pessina monza serie a midfielder italy italy"
   },
   {
     "id": 374727,
@@ -26368,6 +26218,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/309388.png",
     "searchText": "m. prati racing santander la liga midfielder spain italy"
+  },
+  {
+    "id": 626770,
+    "name": "M. Prettenhoffer",
+    "teamName": "Cagliari",
+    "teamLogo": "https://media.api-sports.io/football/teams/490.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/626770.png",
+    "searchText": "m. prettenhoffer cagliari serie a defender italy"
   },
   {
     "id": 262815,
@@ -26830,6 +26690,16 @@
     "searchText": "m. talbi lorient ligue 1 defender france tunisia"
   },
   {
+    "id": 289445,
+    "name": "M. Tanlongo",
+    "teamName": "Sporting CP",
+    "teamLogo": "https://media.api-sports.io/football/teams/228.png",
+    "leagueName": "Primeira Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/289445.png",
+    "searchText": "m. tanlongo sporting cp primeira liga midfielder portugal"
+  },
+  {
     "id": 18941,
     "name": "M. Targett",
     "teamName": "Hull City",
@@ -27178,16 +27048,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/327347.png",
     "searchText": "m. willemsen heerenveen eredivisie defender netherlands netherlands"
-  },
-  {
-    "id": 668546,
-    "name": "M. Witschel",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/668546.png",
-    "searchText": "m. witschel union berlin bundesliga midfielder germany"
   },
   {
     "id": 2048,
@@ -28070,16 +27930,6 @@
     "searchText": "mauro júnior psv eindhoven eredivisie defender netherlands brazil"
   },
   {
-    "id": 380854,
-    "name": "Max  Grüger",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/380854.png",
-    "searchText": "max  grüger fc schalke 04 bundesliga midfielder germany"
-  },
-  {
     "id": 355167,
     "name": "Max Finkgräfe",
     "teamName": "RB Leipzig",
@@ -28100,16 +27950,6 @@
     "searchText": "max moerstedt 1899 hoffenheim bundesliga attacker germany germany"
   },
   {
-    "id": 420353,
-    "name": "Maximilian Tobias Herwerth",
-    "teamName": "VfB Stuttgart",
-    "teamLogo": "https://media.api-sports.io/football/teams/172.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/420353.png",
-    "searchText": "maximilian tobias herwerth vfb stuttgart bundesliga defender germany germany"
-  },
-  {
     "id": 647139,
     "name": "Mees Rensen",
     "teamName": "NEC Nijmegen",
@@ -28118,16 +27958,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/647139.png",
     "searchText": "mees rensen nec nijmegen eredivisie defender netherlands"
-  },
-  {
-    "id": 365266,
-    "name": "Metehan Yildirim",
-    "teamName": "Eintracht Frankfurt",
-    "teamLogo": "https://media.api-sports.io/football/teams/169.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/365266.png",
-    "searchText": "metehan yildirim eintracht frankfurt bundesliga midfielder germany"
   },
   {
     "id": 390769,
@@ -28258,6 +28088,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/669867.png",
     "searchText": "miguel santaella malaga la liga defender spain"
+  },
+  {
+    "id": 637620,
+    "name": "Miguel Silva",
+    "teamName": "Moreirense",
+    "teamLogo": "https://media.api-sports.io/football/teams/215.png",
+    "leagueName": "Primeira Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/637620.png",
+    "searchText": "miguel silva moreirense primeira liga midfielder portugal"
   },
   {
     "id": 162475,
@@ -28400,6 +28240,16 @@
     "searchText": "mousa tamari rennes ligue 1 midfielder france jordan"
   },
   {
+    "id": 692232,
+    "name": "Moussa Diarra",
+    "teamName": "Lens",
+    "teamLogo": "https://media.api-sports.io/football/teams/116.png",
+    "leagueName": "Ligue 1",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/692232.png",
+    "searchText": "moussa diarra lens ligue 1 attacker france"
+  },
+  {
     "id": 525846,
     "name": "Moussa Gbemou",
     "teamName": "Fortuna Sittard",
@@ -28538,16 +28388,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/178768.png",
     "searchText": "n. atubolu eintracht frankfurt bundesliga goalkeeper germany germany"
-  },
-  {
-    "id": 663096,
-    "name": "N. Baffoh",
-    "teamName": "Sassuolo",
-    "teamLogo": "https://media.api-sports.io/football/teams/488.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/663096.png",
-    "searchText": "n. baffoh sassuolo serie a midfielder italy"
   },
   {
     "id": 579153,
@@ -28860,16 +28700,6 @@
     "searchText": "n. futkeu sv elversberg bundesliga attacker germany germany"
   },
   {
-    "id": 668702,
-    "name": "N. Gane Bernardino",
-    "teamName": "Lens",
-    "teamLogo": "https://media.api-sports.io/football/teams/116.png",
-    "leagueName": "Ligue 1",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/668702.png",
-    "searchText": "n. gane bernardino lens ligue 1 midfielder france"
-  },
-  {
     "id": 26315,
     "name": "N. González",
     "teamName": "Juventus",
@@ -28930,6 +28760,16 @@
     "searchText": "n. höfler sc freiburg bundesliga midfielder germany"
   },
   {
+    "id": 567977,
+    "name": "N. Ilicevic",
+    "teamName": "Eintracht Frankfurt",
+    "teamLogo": "https://media.api-sports.io/football/teams/169.png",
+    "leagueName": "Bundesliga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/567977.png",
+    "searchText": "n. ilicevic eintracht frankfurt bundesliga midfielder germany"
+  },
+  {
     "id": 338014,
     "name": "N. Irankunda",
     "teamName": "Sporting CP",
@@ -28988,16 +28828,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/1741.png",
     "searchText": "n. katić fc schalke 04 bundesliga defender germany croatia"
-  },
-  {
-    "id": 668701,
-    "name": "N. Kemtchoum-Stasiowski",
-    "teamName": "Lens",
-    "teamLogo": "https://media.api-sports.io/football/teams/116.png",
-    "leagueName": "Ligue 1",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/668701.png",
-    "searchText": "n. kemtchoum-stasiowski lens ligue 1 defender france"
   },
   {
     "id": 24189,
@@ -29580,16 +29410,6 @@
     "searchText": "n. sadiki sunderland premier league midfielder england belgium"
   },
   {
-    "id": 571904,
-    "name": "N. Said Mchindra",
-    "teamName": "Toulouse",
-    "teamLogo": "https://media.api-sports.io/football/teams/96.png",
-    "leagueName": "Ligue 1",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/571904.png",
-    "searchText": "n. said mchindra toulouse ligue 1 goalkeeper france"
-  },
-  {
     "id": 294824,
     "name": "N. Saliba",
     "teamName": "Villarreal",
@@ -30120,16 +29940,6 @@
     "searchText": "nuno mendes paris saint germain ligue 1 defender france portugal"
   },
   {
-    "id": 41194,
-    "name": "Nuno Santos",
-    "teamName": "Sporting CP",
-    "teamLogo": "https://media.api-sports.io/football/teams/228.png",
-    "leagueName": "Primeira Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/41194.png",
-    "searchText": "nuno santos sporting cp primeira liga defender portugal"
-  },
-  {
     "id": 41577,
     "name": "Nuno Tavares",
     "teamName": "Lazio",
@@ -30188,16 +29998,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/282637.png",
     "searchText": "o. azeez brighton premier league midfielder england"
-  },
-  {
-    "id": 611399,
-    "name": "O. Banse",
-    "teamName": "Torino",
-    "teamLogo": "https://media.api-sports.io/football/teams/503.png",
-    "leagueName": "Serie A",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/611399.png",
-    "searchText": "o. banse torino serie a attacker italy"
   },
   {
     "id": 70099,
@@ -30368,16 +30168,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/286601.png",
     "searchText": "o. el hilali espanyol la liga defender spain morocco"
-  },
-  {
-    "id": 621185,
-    "name": "O. Engel",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/621185.png",
-    "searchText": "o. engel union berlin bundesliga attacker germany"
   },
   {
     "id": 284242,
@@ -30698,6 +30488,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/656.png",
     "searchText": "o. solet udinese serie a defender italy france"
+  },
+  {
+    "id": 458588,
+    "name": "O. Subuloye",
+    "teamName": "Chelsea",
+    "teamLogo": "https://media.api-sports.io/football/teams/49.png",
+    "leagueName": "Premier League",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/458588.png",
+    "searchText": "o. subuloye chelsea premier league defender england england"
   },
   {
     "id": 284071,
@@ -31590,16 +31390,6 @@
     "searchText": "p. schick bayer leverkusen bundesliga attacker germany czechia"
   },
   {
-    "id": 342172,
-    "name": "P. Schulz",
-    "teamName": "FSV Mainz 05",
-    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/342172.png",
-    "searchText": "p. schulz fsv mainz 05 bundesliga midfielder germany"
-  },
-  {
     "id": 535,
     "name": "P. Schuurs",
     "teamName": "NEC Nijmegen",
@@ -32088,16 +31878,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/1864.png",
     "searchText": "pedro neto chelsea premier league attacker england portugal"
-  },
-  {
-    "id": 18824,
-    "name": "Pedro Obiang",
-    "teamName": "Monza",
-    "teamLogo": "https://media.api-sports.io/football/teams/1579.png",
-    "leagueName": "Serie A",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/18824.png",
-    "searchText": "pedro obiang monza serie a midfielder italy"
   },
   {
     "id": 100533,
@@ -33228,6 +33008,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/494390.png",
     "searchText": "r. muteba estrela primeira liga attacker portugal belgium"
+  },
+  {
+    "id": 668535,
+    "name": "R. Nakuzola",
+    "teamName": "FSV Mainz 05",
+    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
+    "leagueName": "Bundesliga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/668535.png",
+    "searchText": "r. nakuzola fsv mainz 05 bundesliga defender germany"
   },
   {
     "id": 128342,
@@ -34660,16 +34450,6 @@
     "searchText": "s. barrera villarreal la liga midfielder spain"
   },
   {
-    "id": 585741,
-    "name": "S. Barry",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/585741.png",
-    "searchText": "s. barry union berlin bundesliga defender germany"
-  },
-  {
     "id": 362379,
     "name": "S. Baseya",
     "teamName": "Alverca",
@@ -35710,16 +35490,6 @@
     "searchText": "s. nibombé monaco ligue 1 defender france"
   },
   {
-    "id": 544355,
-    "name": "S. Noode",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/544355.png",
-    "searchText": "s. noode fc schalke 04 bundesliga defender germany"
-  },
-  {
     "id": 270,
     "name": "S. Nsoki",
     "teamName": "Union Berlin",
@@ -35978,16 +35748,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/375806.png",
     "searchText": "s. smarkalev werder bremen bundesliga goalkeeper germany"
-  },
-  {
-    "id": 606182,
-    "name": "S. Sodikov",
-    "teamName": "SC Braga",
-    "teamLogo": "https://media.api-sports.io/football/teams/217.png",
-    "leagueName": "Primeira Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/606182.png",
-    "searchText": "s. sodikov sc braga primeira liga midfielder portugal"
   },
   {
     "id": 1014,
@@ -36398,6 +36158,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/80667.png",
     "searchText": "samuel gil vicente primeira liga goalkeeper portugal brazil"
+  },
+  {
+    "id": 338748,
+    "name": "Samuel Justo",
+    "teamName": "Sporting CP",
+    "teamLogo": "https://media.api-sports.io/football/teams/228.png",
+    "leagueName": "Primeira Liga",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/338748.png",
+    "searchText": "samuel justo sporting cp primeira liga midfielder portugal"
   },
   {
     "id": 162595,
@@ -37410,16 +37180,6 @@
     "searchText": "t. julienne arsenal premier league midfielder england"
   },
   {
-    "id": 668544,
-    "name": "T. Kannegieser",
-    "teamName": "Union Berlin",
-    "teamLogo": "https://media.api-sports.io/football/teams/182.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/668544.png",
-    "searchText": "t. kannegieser union berlin bundesliga midfielder germany"
-  },
-  {
     "id": 261,
     "name": "T. Kehrer",
     "teamName": "Ajax",
@@ -38160,6 +37920,16 @@
     "searchText": "t. vilhena willem ii eredivisie midfielder netherlands netherlands"
   },
   {
+    "id": 560980,
+    "name": "T. Vizcay",
+    "teamName": "Athletic Club",
+    "teamLogo": "https://media.api-sports.io/football/teams/531.png",
+    "leagueName": "La Liga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/560980.png",
+    "searchText": "t. vizcay athletic club la liga attacker spain"
+  },
+  {
     "id": 32858,
     "name": "T. Watanabe",
     "teamName": "Feyenoord",
@@ -38198,16 +37968,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/568612.png",
     "searchText": "t. yamamoto borussia dortmund bundesliga midfielder germany"
-  },
-  {
-    "id": 548539,
-    "name": "T. Yamazaki",
-    "teamName": "FSV Mainz 05",
-    "teamLogo": "https://media.api-sports.io/football/teams/164.png",
-    "leagueName": "Bundesliga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/548539.png",
-    "searchText": "t. yamazaki fsv mainz 05 bundesliga midfielder germany"
   },
   {
     "id": 177362,
@@ -38420,6 +38180,16 @@
     "searchText": "timur tuterov sunderland premier league attacker england ukraine"
   },
   {
+    "id": 503141,
+    "name": "Tjalling Keimpema",
+    "teamName": "Cambuur",
+    "teamLogo": "https://media.api-sports.io/football/teams/420.png",
+    "leagueName": "Eredivisie",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/503141.png",
+    "searchText": "tjalling keimpema cambuur eredivisie goalkeeper netherlands"
+  },
+  {
     "id": 161939,
     "name": "Tomás Araújo",
     "teamName": "Benfica",
@@ -38508,6 +38278,16 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/489678.png",
     "searchText": "toni tamarit alverca primeira liga attacker portugal spain"
+  },
+  {
+    "id": 690183,
+    "name": "Torben Bos",
+    "teamName": "PEC Zwolle",
+    "teamLogo": "https://media.api-sports.io/football/teams/193.png",
+    "leagueName": "Eredivisie",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/690183.png",
+    "searchText": "torben bos pec zwolle eredivisie defender netherlands"
   },
   {
     "id": 621140,
@@ -38888,6 +38668,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/106759.png",
     "searchText": "v. koski alaves la liga defender spain finland"
+  },
+  {
+    "id": 561092,
+    "name": "V. Kysil",
+    "teamName": "Getafe",
+    "teamLogo": "https://media.api-sports.io/football/teams/546.png",
+    "leagueName": "La Liga",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/561092.png",
+    "searchText": "v. kysil getafe la liga defender spain"
   },
   {
     "id": 202976,
@@ -39570,16 +39360,6 @@
     "searchText": "w. mohya borussia mönchengladbach bundesliga midfielder germany germany"
   },
   {
-    "id": 601134,
-    "name": "W. Ngana",
-    "teamName": "RB Leipzig",
-    "teamLogo": "https://media.api-sports.io/football/teams/173.png",
-    "leagueName": "Bundesliga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/601134.png",
-    "searchText": "w. ngana rb leipzig bundesliga defender germany"
-  },
-  {
     "id": 162265,
     "name": "W. Omari",
     "teamName": "Hamburger SV",
@@ -40170,6 +39950,16 @@
     "searchText": "y. konan lyon ligue 1 goalkeeper france"
   },
   {
+    "id": 670620,
+    "name": "Y. Kone",
+    "teamName": "Estac Troyes",
+    "teamLogo": "https://media.api-sports.io/football/teams/110.png",
+    "leagueName": "Ligue 1",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/670620.png",
+    "searchText": "y. kone estac troyes ligue 1 attacker france"
+  },
+  {
     "id": 125418,
     "name": "Y. Konoplya",
     "teamName": "Borussia Mönchengladbach",
@@ -40618,16 +40408,6 @@
     "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/243.png",
     "searchText": "z. aboukhlal torino serie a attacker italy morocco"
-  },
-  {
-    "id": 618035,
-    "name": "Z. Amoussou-Tchibara",
-    "teamName": "FC Schalke 04",
-    "teamLogo": "https://media.api-sports.io/football/teams/174.png",
-    "leagueName": "Bundesliga",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/618035.png",
-    "searchText": "z. amoussou-tchibara fc schalke 04 bundesliga attacker germany"
   },
   {
     "id": 396380,
