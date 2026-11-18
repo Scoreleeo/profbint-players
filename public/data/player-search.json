@@ -250,6 +250,16 @@
     "searchText": "a. bamba newcastle premier league midfielder england france"
   },
   {
+    "id": 680592,
+    "name": "A. Bar",
+    "teamName": "Paris Saint Germain",
+    "teamLogo": "https://media.api-sports.io/football/teams/85.png",
+    "leagueName": "Ligue 1",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/680592.png",
+    "searchText": "a. bar paris saint germain ligue 1 goalkeeper france"
+  },
+  {
     "id": 68090,
     "name": "A. Barišić",
     "teamName": "SC Braga",
@@ -395,9 +405,9 @@
     "teamName": "Sunderland",
     "teamLogo": "https://media.api-sports.io/football/teams/746.png",
     "leagueName": "Premier League",
-    "position": "Defender",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/19446.png",
-    "searchText": "a. browne sunderland premier league defender england"
+    "searchText": "a. browne sunderland premier league midfielder england"
   },
   {
     "id": 46746,
@@ -6000,6 +6010,16 @@
     "searchText": "c. de ketelaere atalanta serie a attacker italy belgium"
   },
   {
+    "id": 506554,
+    "name": "C. De Paoli",
+    "teamName": "Como",
+    "teamLogo": "https://media.api-sports.io/football/teams/895.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/506554.png",
+    "searchText": "c. de paoli como serie a defender italy italy"
+  },
+  {
     "id": 610742,
     "name": "C. De Roa",
     "teamName": "Real Betis",
@@ -6328,6 +6348,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/133.png",
     "searchText": "c. lenglet benfica primeira liga defender portugal france"
+  },
+  {
+    "id": 680579,
+    "name": "C. Lieto",
+    "teamName": "Napoli",
+    "teamLogo": "https://media.api-sports.io/football/teams/492.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/680579.png",
+    "searchText": "c. lieto napoli serie a defender italy"
   },
   {
     "id": 432554,
@@ -8328,16 +8358,6 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/19811.png",
     "searchText": "d. phillips hull city premier league goalkeeper england england"
-  },
-  {
-    "id": 670466,
-    "name": "D. Podar-Stiube",
-    "teamName": "Bayern München",
-    "teamLogo": "https://media.api-sports.io/football/teams/157.png",
-    "leagueName": "Bundesliga",
-    "position": "Goalkeeper",
-    "photo": "https://media.api-sports.io/football/players/670466.png",
-    "searchText": "d. podar-stiube bayern münchen bundesliga goalkeeper germany"
   },
   {
     "id": 152850,
@@ -11140,6 +11160,16 @@
     "searchText": "f. balogun monaco ligue 1 attacker france usa"
   },
   {
+    "id": 579077,
+    "name": "F. Barido",
+    "teamName": "Napoli",
+    "teamLogo": "https://media.api-sports.io/football/teams/492.png",
+    "leagueName": "Serie A",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/579077.png",
+    "searchText": "f. barido napoli serie a midfielder italy"
+  },
+  {
     "id": 36964,
     "name": "F. Bednarek",
     "teamName": "Sparta Rotterdam",
@@ -11420,6 +11450,16 @@
     "searchText": "f. götze sc paderborn 07 bundesliga defender germany germany"
   },
   {
+    "id": 625123,
+    "name": "F. Grilli",
+    "teamName": "Como",
+    "teamLogo": "https://media.api-sports.io/football/teams/895.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/625123.png",
+    "searchText": "f. grilli como serie a defender italy"
+  },
+  {
     "id": 719,
     "name": "F. Grillitsch",
     "teamName": "Frosinone",
@@ -11648,16 +11688,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/6231.png",
     "searchText": "f. medina bayer leverkusen bundesliga defender germany argentina"
-  },
-  {
-    "id": 653,
-    "name": "F. Mendy",
-    "teamName": "Real Madrid",
-    "teamLogo": "https://media.api-sports.io/football/teams/541.png",
-    "leagueName": "La Liga",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/653.png",
-    "searchText": "f. mendy real madrid la liga defender spain"
   },
   {
     "id": 162236,
@@ -11958,6 +11988,16 @@
     "position": "Goalkeeper",
     "photo": "https://media.api-sports.io/football/players/162445.png",
     "searchText": "f. stanković venezia serie a goalkeeper italy serbia"
+  },
+  {
+    "id": 485609,
+    "name": "F. Steffanoni",
+    "teamName": "Atalanta",
+    "teamLogo": "https://media.api-sports.io/football/teams/499.png",
+    "leagueName": "Serie A",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/485609.png",
+    "searchText": "f. steffanoni atalanta serie a midfielder italy"
   },
   {
     "id": 7228,
@@ -13105,9 +13145,9 @@
     "teamName": "Celta Vigo",
     "teamLogo": "https://media.api-sports.io/football/teams/538.png",
     "leagueName": "La Liga",
-    "position": "Defender",
+    "position": "Attacker",
     "photo": "https://media.api-sports.io/football/players/560932.png",
-    "searchText": "g. miller celta vigo la liga defender spain"
+    "searchText": "g. miller celta vigo la liga attacker spain"
   },
   {
     "id": 610695,
@@ -14260,16 +14300,6 @@
     "searchText": "h. çalhanoğlu inter serie a midfielder italy türkiye"
   },
   {
-    "id": 382947,
-    "name": "H. Cuenca",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/382947.png",
-    "searchText": "h. cuenca celta vigo la liga midfielder spain"
-  },
-  {
     "id": 180316,
     "name": "H. Davies",
     "teamName": "Liverpool",
@@ -14678,16 +14708,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/182.png",
     "searchText": "h. winks cagliari serie a midfielder italy england"
-  },
-  {
-    "id": 427,
-    "name": "H. Wright",
-    "teamName": "Coventry",
-    "teamLogo": "https://media.api-sports.io/football/teams/1346.png",
-    "leagueName": "Premier League",
-    "position": "Attacker",
-    "photo": "https://media.api-sports.io/football/players/427.png",
-    "searchText": "h. wright coventry premier league attacker england"
   },
   {
     "id": 19035,
@@ -15168,6 +15188,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/46170.png",
     "searchText": "i. ilić lecce serie a midfielder italy serbia"
+  },
+  {
+    "id": 492165,
+    "name": "I. Isoa",
+    "teamName": "Atalanta",
+    "teamLogo": "https://media.api-sports.io/football/teams/499.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/492165.png",
+    "searchText": "i. isoa atalanta serie a defender italy"
   },
   {
     "id": 402225,
@@ -18458,16 +18488,6 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/2936.png",
     "searchText": "j. tarkowski everton premier league defender england england"
-  },
-  {
-    "id": 18397,
-    "name": "J. Taylor",
-    "teamName": "Ipswich",
-    "teamLogo": "https://media.api-sports.io/football/teams/57.png",
-    "leagueName": "Premier League",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/18397.png",
-    "searchText": "j. taylor ipswich premier league midfielder england"
   },
   {
     "id": 203132,
@@ -23130,6 +23150,16 @@
     "searchText": "l. vanderbruggen cambuur eredivisie midfielder netherlands"
   },
   {
+    "id": 452033,
+    "name": "L. Venturino",
+    "teamName": "Genoa",
+    "teamLogo": "https://media.api-sports.io/football/teams/495.png",
+    "leagueName": "Serie A",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/452033.png",
+    "searchText": "l. venturino genoa serie a attacker italy italy"
+  },
+  {
     "id": 281933,
     "name": "L. Vonić",
     "teamName": "Moreirense",
@@ -23160,6 +23190,16 @@
     "searchText": "l. vušković brighton premier league defender england croatia"
   },
   {
+    "id": 621889,
+    "name": "L. Wagenbach",
+    "teamName": "1899 Hoffenheim",
+    "teamLogo": "https://media.api-sports.io/football/teams/167.png",
+    "leagueName": "Bundesliga",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/621889.png",
+    "searchText": "l. wagenbach 1899 hoffenheim bundesliga attacker germany"
+  },
+  {
     "id": 26260,
     "name": "L. Waldschmidt",
     "teamName": "1. FC Köln",
@@ -23188,16 +23228,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/465310.png",
     "searchText": "l. williams-barnett tottenham premier league midfielder england england"
-  },
-  {
-    "id": 17714,
-    "name": "L. Woolfenden",
-    "teamName": "Coventry",
-    "teamLogo": "https://media.api-sports.io/football/teams/1346.png",
-    "leagueName": "Premier League",
-    "position": "Defender",
-    "photo": "https://media.api-sports.io/football/players/17714.png",
-    "searchText": "l. woolfenden coventry premier league defender england"
   },
   {
     "id": 342970,
@@ -23498,6 +23528,16 @@
     "position": "Defender",
     "photo": "https://media.api-sports.io/football/players/180961.png",
     "searchText": "luan patrick estrela primeira liga defender portugal brazil"
+  },
+  {
+    "id": 344247,
+    "name": "Luca Gunter",
+    "teamName": "Tottenham",
+    "teamLogo": "https://media.api-sports.io/football/teams/47.png",
+    "leagueName": "Premier League",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/344247.png",
+    "searchText": "luca gunter tottenham premier league goalkeeper england england"
   },
   {
     "id": 388547,
@@ -28810,6 +28850,16 @@
     "searchText": "n. kader nacional primeira liga attacker portugal cameroon"
   },
   {
+    "id": 682326,
+    "name": "N. Kalembo",
+    "teamName": "Crystal Palace",
+    "teamLogo": "https://media.api-sports.io/football/teams/52.png",
+    "leagueName": "Premier League",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/682326.png",
+    "searchText": "n. kalembo crystal palace premier league midfielder england"
+  },
+  {
     "id": 493026,
     "name": "N. Kamara",
     "teamName": "Lyon",
@@ -29830,6 +29880,16 @@
     "searchText": "nigel groenewald twente eredivisie attacker netherlands"
   },
   {
+    "id": 595794,
+    "name": "Nikita Melnyk",
+    "teamName": "Napoli",
+    "teamLogo": "https://media.api-sports.io/football/teams/492.png",
+    "leagueName": "Serie A",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/595794.png",
+    "searchText": "nikita melnyk napoli serie a defender italy"
+  },
+  {
     "id": 197500,
     "name": "Nikita Solodchenko",
     "teamName": "Genoa",
@@ -30318,16 +30378,6 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/24882.png",
     "searchText": "o. mangala getafe la liga midfielder spain belgium"
-  },
-  {
-    "id": 554286,
-    "name": "O. Marcos",
-    "teamName": "Celta Vigo",
-    "teamLogo": "https://media.api-sports.io/football/teams/538.png",
-    "leagueName": "La Liga",
-    "position": "Midfielder",
-    "photo": "https://media.api-sports.io/football/players/554286.png",
-    "searchText": "o. marcos celta vigo la liga midfielder spain"
   },
   {
     "id": 389309,
@@ -32525,9 +32575,9 @@
     "teamName": "Aston Villa",
     "teamLogo": "https://media.api-sports.io/football/teams/66.png",
     "leagueName": "Premier League",
-    "position": "Defender",
+    "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/412084.png",
-    "searchText": "r. fortes aston villa premier league defender england"
+    "searchText": "r. fortes aston villa premier league midfielder england"
   },
   {
     "id": 203,
@@ -34688,6 +34738,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/1696.png",
     "searchText": "s. chukwueze ac milan serie a midfielder italy nigeria"
+  },
+  {
+    "id": 610955,
+    "name": "S. Cianciulli",
+    "teamName": "Fiorentina",
+    "teamLogo": "https://media.api-sports.io/football/teams/502.png",
+    "leagueName": "Serie A",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/610955.png",
+    "searchText": "s. cianciulli fiorentina serie a midfielder italy"
   },
   {
     "id": 382448,
@@ -37040,6 +37100,16 @@
     "searchText": "t. gomis rb leipzig bundesliga attacker germany france"
   },
   {
+    "id": 585333,
+    "name": "T. Goncalves",
+    "teamName": "Lyon",
+    "teamLogo": "https://media.api-sports.io/football/teams/80.png",
+    "leagueName": "Ligue 1",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/585333.png",
+    "searchText": "t. goncalves lyon ligue 1 midfielder france"
+  },
+  {
     "id": 584077,
     "name": "T. Hall",
     "teamName": "Tottenham",
@@ -38068,6 +38138,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/1482.png",
     "searchText": "thierry correia venezia serie a midfielder italy portugal"
+  },
+  {
+    "id": 630731,
+    "name": "Thomas Rousseau",
+    "teamName": "Le Havre",
+    "teamLogo": "https://media.api-sports.io/football/teams/111.png",
+    "leagueName": "Ligue 1",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/630731.png",
+    "searchText": "thomas rousseau le havre ligue 1 midfielder france"
   },
   {
     "id": 361372,
@@ -39910,6 +39990,16 @@
     "searchText": "y. ibrahim brighton premier league midfielder england"
   },
   {
+    "id": 581929,
+    "name": "Y. Idder",
+    "teamName": "Paris Saint Germain",
+    "teamLogo": "https://media.api-sports.io/football/teams/85.png",
+    "leagueName": "Ligue 1",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/581929.png",
+    "searchText": "y. idder paris saint germain ligue 1 midfielder france"
+  },
+  {
     "id": 178093,
     "name": "Y. Keitel",
     "teamName": "FC Augsburg",
@@ -40518,6 +40608,16 @@
     "position": "Midfielder",
     "photo": "https://media.api-sports.io/football/players/535169.png",
     "searchText": "z. kassary alverca primeira liga midfielder portugal morocco"
+  },
+  {
+    "id": 638259,
+    "name": "Z. Kennedy",
+    "teamName": "Como",
+    "teamLogo": "https://media.api-sports.io/football/teams/895.png",
+    "leagueName": "Serie A",
+    "position": "Attacker",
+    "photo": "https://media.api-sports.io/football/players/638259.png",
+    "searchText": "z. kennedy como serie a attacker italy"
   },
   {
     "id": 180927,
