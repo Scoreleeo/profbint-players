@@ -1,1 +1,101 @@
-[]
+[
+  {
+    "id": 31191,
+    "name": "D. Thiam",
+    "teamName": "Monza",
+    "position": "Goalkeeper",
+    "photo": "https://media.api-sports.io/football/players/31191.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/1579.png",
+    "score": 98.3
+  },
+  {
+    "id": 106725,
+    "name": "K. Lewis-Potter",
+    "teamName": "Brentford",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/106725.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/55.png",
+    "score": 106
+  },
+  {
+    "id": 390002,
+    "name": "M. Chávez",
+    "teamName": "AZ Alkmaar",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/390002.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/201.png",
+    "score": 102.8
+  },
+  {
+    "id": 342063,
+    "name": "D. Coppola",
+    "teamName": "Paris FC",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/342063.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/114.png",
+    "score": 100.75
+  },
+  {
+    "id": 197448,
+    "name": "Yan Couto",
+    "teamName": "Como",
+    "position": "Defender",
+    "photo": "https://media.api-sports.io/football/players/197448.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/895.png",
+    "score": 96.15
+  },
+  {
+    "id": 345388,
+    "name": "Afonso Moreira",
+    "teamName": "Bayer Leverkusen",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/345388.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/168.png",
+    "score": 121.15
+  },
+  {
+    "id": 25321,
+    "name": "D. Klaassen",
+    "teamName": "Ajax",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/25321.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/194.png",
+    "score": 121.05
+  },
+  {
+    "id": 48389,
+    "name": "N. Okafor",
+    "teamName": "Leeds",
+    "position": "Midfielder",
+    "photo": "https://media.api-sports.io/football/players/48389.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/63.png",
+    "score": 108.85
+  },
+  {
+    "id": 249,
+    "name": "D. Malen",
+    "teamName": "AS Roma",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/249.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/497.png",
+    "score": 130.8
+  },
+  {
+    "id": 345808,
+    "name": "F. Esposito",
+    "teamName": "Inter",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/345808.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/505.png",
+    "score": 116.4
+  },
+  {
+    "id": 338840,
+    "name": "R. Daal",
+    "teamName": "AZ Alkmaar",
+    "position": "Forward",
+    "photo": "https://media.api-sports.io/football/players/338840.png",
+    "teamLogo": "https://media.api-sports.io/football/teams/201.png",
+    "score": 111.4
+  }
+]
